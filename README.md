@@ -1,4 +1,4 @@
-# Šablona pro sazbu závěrečných prací na MFF UK v LaTeXu
+# Šablona pro sazbu závěrečných prací na MFF UK v LaTeXu 
 
 ## Úvod
 
