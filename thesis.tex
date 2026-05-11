@@ -9,7 +9,16 @@
 %% Verze pro jednostranný tisk:
 % Okraje: levý 40mm, pravý 25mm, horní a dolní 25mm
 % (ale pozor, LaTeX si k levému a hornímu sám přidává 1in=25.4mm)
-\documentclass[12pt,a4paper]{report} \setlength\textwidth{145mm} \setlength\textheight{247mm} \setlength\oddsidemargin{14.6mm} \setlength\evensidemargin{14.6mm} \setlength\topmargin{0mm} \setlength\headsep{0mm} \setlength\headheight{0mm} % \openright zařídí, aby následující text začínal na pravé straně knihy \let\openright=\clearpage
+\documentclass[12pt,a4paper]{report}
+\setlength\textwidth{145mm}
+\setlength\textheight{247mm}
+\setlength\oddsidemargin{14.6mm}
+\setlength\evensidemargin{14.6mm}
+\setlength\topmargin{0mm}
+\setlength\headsep{0mm}
+\setlength\headheight{0mm}
+% \openright zařídí, aby následující text začínal na pravé straně knihy
+\let\openright=\clearpage
 
 %% Pokud tiskneme oboustranně:
 % \documentclass[12pt,a4paper,twoside,openright]{report}
@@ -40,11 +49,30 @@
 \usepackage[czech, russian]{babel} \usepackage{lmodern}
 
 % Pokud nepouživáme LuaTeX, je potřeba ještě nastavit kódování znaků
-\usepackage{iftex} \ifpdftex \usepackage[utf8]{inputenc} \usepackage[T2A, T1]{fontenc} \usepackage{textcomp} \fi
+\usepackage{iftex}
+\ifpdftex
+\usepackage[utf8]{inputenc}
+\usepackage[T2A, T1]{fontenc}
+\usepackage{textcomp}
+\fi
 
 %%% Další užitečné balíčky (jsou součástí běžných distribucí LaTeXu)
-\usepackage{amsmath} % rozšíření pro sazbu matematiky \usepackage{amsfonts} % matematické fonty \usepackage{amsthm} % sazba vět, definic apod.
-\usepackage{bm} % tučné symboly (příkaz \bm) \usepackage{booktabs} % lepší vodorovné linky v tabulkách \usepackage{caption} % umožní definovat vlastní popisky plovoucích objektů \usepackage{csquotes} % uvozovky závislé na jazyku \usepackage{dcolumn} % vylepšené zarovnání sloupců tabulek \usepackage{floatrow} % umožní definovat vlastní typy plovoucích objektů \usepackage{graphicx} % vkládání obrázků \usepackage{icomma} % inteligetní čárka v matematickém módu \usepackage{indentfirst} % zavede odsazení 1. odstavce kapitoly \usepackage[nopatch=item]{microtype} % mikrotypografická rozšíření \usepackage{paralist} % lepší enumerate a itemize \usepackage[nottoc]{tocbibind} % zajistí přidání seznamu literatury, % obrázků a tabulek do obsahu \usepackage{xcolor} % barevná sazba
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{bm}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{csquotes}
+\usepackage{dcolumn}
+\usepackage{floatrow}
+\usepackage{graphicx}
+\usepackage{icomma}
+\usepackage{indentfirst}
+\usepackage[nopatch=item]{microtype}
+\usepackage{paralist}
+\usepackage[nottoc]{tocbibind}
+\usepackage{xcolor}
 
 % Balíček hyperref, kterým jdou vyrábět klikací odkazy v PDF,
 % ale hlavně ho používáme k uložení metadat do PDF (včetně obsahu).
@@ -52,7 +80,10 @@
 \hypersetup{unicode} \hypersetup{breaklinks=true}
 
 % Balíčky pro sazbu informatických prací
-\usepackage{algpseudocode} % součást balíčku algorithmicx \usepackage[Algoritmus]{algorithm} \usepackage{fancyvrb} % vylepšené prostředí verbatim \usepackage{listings} % zvýrazňování syntaxe zdrojových textů
+\usepackage{algpseudocode}
+\usepackage[Algoritmus]{algorithm}
+\usepackage{fancyvrb}
+\usepackage{listings}
 
 % Cleveref může zjednodušit odkazování, ale jeho užitečnost pro češtinu
 % je minimalní, protože nezvládá skloňování.
@@ -65,7 +96,7 @@
 % vedoucím, jaký formát citací je pro vaši práci vhodný!
 %
 % Základní formát podle normy ISO 690 s číslovanými odkazy
-\usepackage[natbib,style=iso-numeric,sorting=none]{biblatex} % ISO 690 s alfanumerickými odkazy (zkratky jmen autorů) %\usepackage[natbib,style=iso-alphabetic]{biblatex} % ISO 690 s citacemi tvaru Autor (rok) %\usepackage[natbib,style=iso-authoryear]{biblatex} % % V některých oborech je běžnější obyčejný formát s číslovanými odkazy % (sorting=none říká, že se bibliografie má řadit podle pořadí citací): %\usepackage[natbib,style=numeric,sorting=none]{biblatex} % Číslované odkazy, navíc se [1,2,3,4,5] komprimuje na [1-5] %\usepackage[natbib,style=numeric-comp,sorting=none]{biblatex} % Obyčejný formát s alfanumerickými odkazy: %\usepackage[natbib,style=alphabetic]{biblatex}
+\usepackage[natbib,style=iso-numeric,sorting=none]{biblatex}
 
 % Z tohoto souboru se načítají položky bibliografie
 \addbibresource{literatura.bib}
