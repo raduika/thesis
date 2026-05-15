@@ -1,13 +1,51 @@
 \babel@toc {russian}{}\relax 
 \contentsline {chapter}{Úvod}{5}{chapter*.2}%
-\contentsline {chapter}{\numberline {1}TEORETICKÉ A METODOLOGICKÉ ZÁKLADY VÝZKUMU UMĚLÉ INTELIGENCE JAKO POLITICKÉHO FENOMÉNU.}{6}{chapter.1}%
-\contentsline {chapter}{\numberline {2}EKONOMIKA POZORNOSTI A TRANSFORMACE VEŘEJNÉ SFÉRY }{14}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Veřejná racionalita jako filozoficko-politický koncept}{14}{section.2.1}%
-\contentsline {chapter}{\numberline {3}Formát PDF/A}{15}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Formát PDF/A}{17}{chapter.4}%
-\contentsline {chapter}{Závěr}{18}{chapter*.3}%
-\contentsline {chapter}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyri \cyrl \cyrl \cyryu \cyrs \cyrt \cyrr \cyra \cyrc \cyri \cyrishrt }}{19}{chapter*.4}%
-\contentsline {chapter}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrt \cyra \cyrb \cyrl \cyri \cyrc }}{20}{chapter*.5}%
-\contentsline {chapter}{Seznam použitých zkratek}{21}{chapter*.6}%
-\contentsline {chapter}{\numberline {A}Přílohy}{22}{appendix.A}%
-\contentsline {section}{\numberline {A.1}První příloha}{22}{section.A.1}%
+\contentsline {chapter}{\numberline {1}Teoretické a metodologické základy výzkumu umělé inteligence jako politického fenoménu.}{6}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Ekonomika pozornosti a transformace veřejné sféry }{13}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Algoritmizace vlády a etické a politické výzvy}{28}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Formát PDF/A}{36}{chapter.4}%
+\contentsline {chapter}{Závěr}{37}{chapter*.3}%
+\contentsline {chapter}{Literatura}{38}{chapter*.4}%
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyri \cyrl \cyrl \cyryu \cyrs \cyrt \cyrr \cyra \cyrc \cyri \cyrishrt }}{40}{chapter*.5}%
+\contentsline {chapter}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrt \cyra \cyrb \cyrl \cyri \cyrc }}{41}{chapter*.6}%
+\contentsline {chapter}{Seznam použitých zkratek}{42}{chapter*.7}%
+\contentsline {chapter}{\numberline {A}Přílohy}{43}{appendix.A}%
+\contentsline {section}{\numberline {A.1}První příloha}{43}{section.A.1}%

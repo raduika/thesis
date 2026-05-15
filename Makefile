@@ -1,7 +1,7 @@
 all: thesis.pdf abstract-cs.pdf abstract-en.pdf
 
 %.pdf: force
-	latexmk $*.tex
+	latexmk -pdf $*.tex
 
 clean:
 	rm -rf tmp

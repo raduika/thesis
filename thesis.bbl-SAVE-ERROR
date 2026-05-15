@@ -16,41 +16,5 @@
   {}
 \endgroup
 
-
-\refsection{0}
-  \datalist[entry]{none/global//global/global/global}
-    \entry{Andel07}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=2fad11038fc64bcc1dfc944587cc4569}{%
-           family={Anděl},
-           familyi={A\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Praha}%
-      }
-      \list{publisher}{1}{%
-        {Matfyzpress}%
-      }
-      \strng{namehash}{2fad11038fc64bcc1dfc944587cc4569}
-      \strng{fullhash}{2fad11038fc64bcc1dfc944587cc4569}
-      \strng{fullhashraw}{2fad11038fc64bcc1dfc944587cc4569}
-      \strng{bibnamehash}{2fad11038fc64bcc1dfc944587cc4569}
-      \strng{authorbibnamehash}{2fad11038fc64bcc1dfc944587cc4569}
-      \strng{authornamehash}{2fad11038fc64bcc1dfc944587cc4569}
-      \strng{authorfullhash}{2fad11038fc64bcc1dfc944587cc4569}
-      \strng{authorfullhashraw}{2fad11038fc64bcc1dfc944587cc4569}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{80-7378-001-1}
-      \field{series}{Druhé opravené vydání}
-      \field{title}{Základy matematické statistiky}
-      \field{year}{2007}
-    \endentry
-  \enddatalist
-\endrefsection
 \endinput
 

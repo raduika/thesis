@@ -101,6 +101,13 @@
 % Z tohoto souboru se načítají položky bibliografie
 \addbibresource{literatura.bib}
 
+% Překlad chybějících biblatex řetězců
+\DefineBibliographyStrings{czech}{urlalso={dostupné také z\addcolon\space}}
+\DefineBibliographyStrings{russian}{urlalso={доступно также\addcolon\space}}
+
+% Povolení pružnějšího zalamování řádků (omezuje Overfull \hbox)
+\emergencystretch=2em
+
 % Definice různých užitečných maker (viz popis uvnitř souboru)
 \input macros.tex
 
