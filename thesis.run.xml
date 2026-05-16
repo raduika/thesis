@@ -61,9 +61,9 @@
       <file>iso-fullcite.cbx</file>
       <file>iso-numeric.cbx</file>
       <file>biblatex.cfg</file>
-      <file>russian.lbx</file>
       <file>czech.lbx</file>
       <file>czech-iso.lbx</file>
+      <file>russian.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">
