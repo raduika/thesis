@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  17 MAY 2026 13:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  17 MAY 2026 15:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1717,6 +1717,11 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
  (./kap01.tex
 Kapitola 1.
 
+Underfull \hbox (badness 1383) in paragraph at lines 19--22
+[]\T2A/lmr/bx/n/12 (+20) Z^^Aasadn^^Ge odli^^Gsnou in-te-lektu^^Aaln^^A^^Y mo^^Gznost otev^^Grelo k^^Gres[]tansk^^Ae st^^Gredov^^Gek.
+ []
+
+
 
 [6
 
@@ -1724,21 +1729,21 @@ Kapitola 1.
 
 
 ]
-Underfull \hbox (badness 3343) in paragraph at lines 45--45
+Underfull \hbox (badness 3343) in paragraph at lines 49--49
 []\T2A/lmr/m/n/17.28 (+20) Transformace pojmu "my^^Gslen^^A^^Y": od lidsk^^Aeho k
  []
 
 
 
 [7]
-Underfull \hbox (badness 1033) in paragraph at lines 51--56
+Underfull \hbox (badness 1033) in paragraph at lines 55--60
 []\T2A/lmr/bx/n/12 (+20) Kartezi^^Aansk^^Ay me-cha-ni-cis-mus pro-vedl prvn^^A^^Y z^^Au^^Gzen^^A^^Y: my^^Gslen^^A^^Y za^^Gcalo b^^Ayt
  []
 
 
 
 [8]
-Underfull \hbox (badness 1701) in paragraph at lines 82--84
+Underfull \hbox (badness 1701) in paragraph at lines 88--91
 []\T2A/lmr/bx/n/12 (+20) V tomto kon-textu je vhodn^^Ae p^^Gripomenout Agam-bena. Jeho kon-cept
  []
 
@@ -1922,13 +1927,13 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Here is how much of TeX's memory you used:
  30504 strings out of 473190
  522908 string characters out of 5704335
- 1417945 words of memory out of 5000000
+ 1419945 words of memory out of 5000000
  53043 multiletter control sequences out of 15000+600000
  595378 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  92i,7n,95p,1354b,2954s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on thesis.pdf (45 pages, 546487 bytes).
+Output written on thesis.pdf (45 pages, 546904 bytes).
 PDF statistics:
  505 PDF objects out of 1000 (max. 8388607)
  437 compressed objects within 5 object streams
