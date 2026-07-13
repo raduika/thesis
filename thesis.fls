@@ -344,6 +344,9 @@ INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listing
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/lstmisc.sty
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/lstmisc.sty
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT ./thesis.aux
+INPUT ./thesis.aux
+INPUT thesis.aux
 OUTPUT thesis.aux
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
