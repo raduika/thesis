@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  13 JUL 2026 17:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  13 JUL 2026 18:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1822,6 +1822,8 @@ Kapitola 3.
 
 
 ]
+
+[43]
 \openout2 = `literatura.aux'.
 
  (./literatura.tex
@@ -1884,21 +1886,21 @@ Underfull \hbox (badness 1158) in paragraph at lines 15--15
 
 
 
-[43
+[44
 
 
 
 
 ])
 
-[44]
+[45]
 No file thesis.lof.
 \tf@lof=\write9
 \openout9 = `thesis.lof'.
 
 
 
-[45
+[46
 
 
 
@@ -1909,11 +1911,11 @@ No file thesis.lot.
 
 
 
-[46
+[47
 
 ]
 
-[47
+[48
 
 ]
 P\v {r}\'{\i }loha A.
@@ -1927,7 +1929,7 @@ See the caption package documentation for explanation.
 
 
 
-[48
+[49
 
 ] (./thesis.aux (./title.aux) (./uvod.aux) (./kap01.aux) (./kap02.aux) (./kap03.aux) (./zaver.aux) (./literatura.aux))
  ***********
@@ -1959,18 +1961,18 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30449 strings out of 473190
- 522230 string characters out of 5704335
- 1398635 words of memory out of 5000000
+ 30450 strings out of 473190
+ 522237 string characters out of 5704335
+ 1401635 words of memory out of 5000000
  53007 multiletter control sequences out of 15000+600000
  595378 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 92i,7n,95p,1354b,2954s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,7n,95p,1354b,2952s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on thesis.pdf (48 pages, 558172 bytes).
+Output written on thesis.pdf (49 pages, 566296 bytes).
 PDF statistics:
- 427 PDF objects out of 1000 (max. 8388607)
- 357 compressed objects within 4 object streams
- 108 named destinations out of 1000 (max. 500000)
+ 434 PDF objects out of 1000 (max. 8388607)
+ 363 compressed objects within 4 object streams
+ 109 named destinations out of 1000 (max. 500000)
  33298 words of extra memory for PDF output out of 35830 (max. 10000000)
 
