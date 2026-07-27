@@ -65,6 +65,8 @@
    <dc:title><rdf:Alt><rdf:li xml:lang="x-default">Umělá inteligence a transformace veřejné racionality: filozoficko-politická analýza ekonomiky pozornosti a algoritmické moci</rdf:li></rdf:Alt></dc:title>
    <dc:creator><rdf:Seq><rdf:li>Anna Radiuk</rdf:li></rdf:Seq></dc:creator>
    <dc:publisher><rdf:Bag><rdf:li>Charles University</rdf:li></rdf:Bag></dc:publisher>
+   <dc:description><rdf:Alt><rdf:li xml:lang="x-default">Vzhledem k tomu, že umělá inteligence a platformová digitální infrastruktura stále silněji zprostředkovávají veřejnou komunikaci, přístup k informacím i politické rozhodování, stává se naléhavou potřebou filozoficko-politické promyšlení toho, co tato proměna činí s veřejnou racionalitou — s kolektivní schopností občanů formovat odůvodněné soudy o věcech obecných v obecně přístupném prostoru. Tato práce se zabývá vztahem mezi ekonomikou pozornosti, algoritmickou mocí a podmínkami demokratické deliberace, s důrazem na to, jak digitální technologie tyto podmínky oslabují.</rdf:li></rdf:Alt></dc:description>
+   <dc:subject><rdf:Bag><rdf:li>umělá inteligence; veřejná racionalita; ekonomika pozornosti; algoritmická moc; nadvláda; platformový kapitalismus; odpovědnost.</rdf:li></rdf:Bag></dc:subject>
   </rdf:Description> 
   <rdf:Description rdf:about="" xmlns:prism="http://prismstandard.org/namespaces/basic/2.2/"> 
   </rdf:Description> 
@@ -76,15 +78,15 @@
   </rdf:Description> 
   <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> 
    <xmp:CreatorTool>LaTeX with hyperref</xmp:CreatorTool> 
-   <xmp:ModifyDate>2026-07-27T18:21:21+02:00</xmp:ModifyDate> 
-   <xmp:CreateDate>2026-07-27T18:21:21+02:00</xmp:CreateDate> 
-   <xmp:MetadataDate>2026-07-27T18:21:21+02:00</xmp:MetadataDate> 
+   <xmp:ModifyDate>2026-07-27T20:06:05+02:00</xmp:ModifyDate> 
+   <xmp:CreateDate>2026-07-27T20:06:05+02:00</xmp:CreateDate> 
+   <xmp:MetadataDate>2026-07-27T20:06:05+02:00</xmp:MetadataDate> 
   </rdf:Description> 
   <rdf:Description rdf:about="" xmlns:xmpRights = "http://ns.adobe.com/xap/1.0/rights/"> 
   </rdf:Description> 
   <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"> 
    <xmpMM:DocumentID>uuid:C8CFC28F-88E1-7995-E9AD-F6D12EAD346B</xmpMM:DocumentID> 
-   <xmpMM:InstanceID>uuid:23321D6A-4D7A-3A3F-658C-EEE1CCBE7E0D</xmpMM:InstanceID> 
+   <xmpMM:InstanceID>uuid:31917CB0-BCBE-C104-FB6F-119FA3B24865</xmpMM:InstanceID> 
   </rdf:Description> 
  </rdf:RDF> 
 </x:xmpmeta> 

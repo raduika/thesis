@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1778873586.50488 "/Users/annaradyuk/Desktop/thesis/abstract-en.tex" "abstract-en.pdf" "abstract-en" 1778873587.08294 0
+["pdflatex"] 1785174879.16995 "/Users/annaradyuk/Desktop/thesis/abstract-en.tex" "abstract-en.pdf" "abstract-en" 1785174879.70848 0
   "/Users/annaradyuk/Desktop/thesis/abstract-en.tex" 1778508978 896 4d18b44aa1ce880f325c7a047234dc93 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -88,13 +88,13 @@
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/xmpincl/xmpincl.sty" 1741388039 2832 d498c59e94b7dfa3b4bcf74380ad6348 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346125 851abcc596872d7f7285a006ccee0040 ""
-  "abstract-en.aux" 1778873587.03448 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "abstract-en.out" 1778873587.03122 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "abstract-en.aux" 1785174879.65921 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "abstract-en.out" 1785174879.65589 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "abstract-en.tex" 1778508978 896 4d18b44aa1ce880f325c7a047234dc93 ""
-  "abstract-en.xmpdata" 1778873586.59415 296 5c6a31cba24f2c47c0b0afe26aa38b1e "pdflatex"
-  "macros.tex" 1778508081 5689 31ceaa0b8d11d904d2688298429fbfd5 ""
-  "metadata.tex" 1778873586.30206 2961 aed06bb770045e142ceac0ed370550ed ""
-  "pdfa.xmpi" 1778873586.96398 5430 240de8c3641329f0f5c269b100addf16 "pdflatex"
+  "abstract-en.xmpdata" 1785174879.25137 295 fd0d5e1b852955f713a31ea55f1e696a "pdflatex"
+  "macros.tex" 1778880189.52411 5689 10ee0394f67d6a8fcbb735f9b9beaed4 ""
+  "metadata.tex" 1785174878.94692 3252 b28bf260c7bea991c5fb1074d86fcc18 ""
+  "pdfa.xmpi" 1785174879.59411 5429 330f632f6bb22b4efc3ae9335ab292b7 "pdflatex"
   "version" 1778508081 23 bb1f0510ca7d10eafa22baa6e7fb6769 ""
   "xmp.tex" 1778509048 1031 6779925a3038d3bd522df84ccd3762a1 ""
   (generated)

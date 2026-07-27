@@ -227,6 +227,8 @@ INPUT abstract-cs.out
 INPUT ./abstract-cs.out
 INPUT ./abstract-cs.out
 OUTPUT abstract-cs.out
+INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT abstract-cs.aux
 INPUT ./abstract-cs.out
 INPUT ./abstract-cs.out
+INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb
