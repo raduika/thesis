@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  27 JUL 2026 20:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  27 JUL 2026 22:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1931,18 +1931,18 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30525 strings out of 473190
- 523427 string characters out of 5704335
+ 30526 strings out of 473190
+ 523446 string characters out of 5704335
  1423989 words of memory out of 5000000
- 53040 multiletter control sequences out of 15000+600000
+ 53041 multiletter control sequences out of 15000+600000
  597136 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  92i,7n,95p,1321b,2952s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on thesis.pdf (48 pages, 320860 bytes).
+Output written on thesis.pdf (48 pages, 320850 bytes).
 PDF statistics:
- 565 PDF objects out of 1000 (max. 8388607)
- 496 compressed objects within 5 object streams
+ 563 PDF objects out of 1000 (max. 8388607)
+ 494 compressed objects within 5 object streams
  122 named destinations out of 1000 (max. 500000)
  37642 words of extra memory for PDF output out of 42996 (max. 10000000)
 

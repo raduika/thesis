@@ -2449,32 +2449,30 @@
     <bcf:citekey order="53" intorder="1">GonzalezDeLaTorre24</bcf:citekey>
     <bcf:citekey order="54" intorder="1">GonzalezDeLaTorre24</bcf:citekey>
     <bcf:citekey order="55" intorder="1">Carr10</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">Citton17</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">Floridi23</bcf:citekey>
     <bcf:citekey order="57" intorder="1">Floridi23</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">Floridi23</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">Coeckelbergh23</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">Dean09</bcf:citekey>
-    <bcf:citekey order="61" intorder="1">Coeckelbergh23</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">Habermas89</bcf:citekey>
-    <bcf:citekey order="63" intorder="1">Zuboff19</bcf:citekey>
-    <bcf:citekey order="64" intorder="1">KoenigWenzelburger20</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">Coeckelbergh23</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">Dean09</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">Coeckelbergh23</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">Habermas89</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">Zuboff19</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">KoenigWenzelburger20</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">ONeil16</bcf:citekey>
     <bcf:citekey order="65" intorder="1">ONeil16</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">ONeil16</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">Searle80</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">Zuboff19</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">Floridi23</bcf:citekey>
-    <bcf:citekey order="70" intorder="1">Coeckelbergh23</bcf:citekey>
-    <bcf:citekey order="71" intorder="1">Habermas89</bcf:citekey>
-    <bcf:citekey order="72" intorder="1">Floridi23</bcf:citekey>
-    <bcf:citekey order="73" intorder="1">Searle80</bcf:citekey>
-    <bcf:citekey order="74" intorder="1">OlofOrsSmit25</bcf:citekey>
-    <bcf:citekey order="75" intorder="1">Williams18</bcf:citekey>
-    <bcf:citekey order="76" intorder="1">KoenigWenzelburger20</bcf:citekey>
-    <bcf:citekey order="77" intorder="1">Belgroun25</bcf:citekey>
-    <bcf:citekey order="78" intorder="1">SauraGarcia24</bcf:citekey>
-    <bcf:citekey order="79" intorder="1">Floridi23</bcf:citekey>
-    <bcf:citekey order="80" intorder="1">Coeckelbergh23</bcf:citekey>
-    <bcf:citekey order="81" intorder="1">Carr10</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">Zuboff19</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">Floridi23</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">Coeckelbergh23</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">Habermas89</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">Floridi23</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">Searle80</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">OlofOrsSmit25</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">Williams18</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">KoenigWenzelburger20</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">Belgroun25</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">SauraGarcia24</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">Floridi23</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">Coeckelbergh23</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">Carr10</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
