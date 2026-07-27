@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  27 JUL 2026 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  27 JUL 2026 18:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1923,31 +1923,6 @@ Underfull \hbox (badness 1158) in paragraph at lines 15--15
 ])
 
 [48]
-No file thesis.lof.
-\tf@lof=\write9
-\openout9 = `thesis.lof'.
-
-
-
-[49
-
-
-
-]
-No file thesis.lot.
-\tf@lot=\write10
-\openout10 = `thesis.lot'.
-
-
-
-[50
-
-]
-
-[51
-
-]
-P\v {r}\'{\i }loha A.
 
 Package caption Warning: Unused \captionsetup[algorithm] on input line 47.
 See the caption package documentation for explanation.
@@ -1956,11 +1931,7 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[listing] on input line 47.
 See the caption package documentation for explanation.
 
-
-
-[52
-
-] (./thesis.aux (./title.aux) (./uvod.aux) (./kap01.aux) (./kap02.aux) (./kap03.aux) (./zaver.aux) (./literatura.aux))
+(./thesis.aux (./title.aux) (./uvod.aux) (./kap01.aux) (./kap02.aux) (./kap03.aux) (./zaver.aux) (./literatura.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1979,7 +1950,7 @@ Package rerunfilecheck Warning: File `thesis.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `thesis.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  AA92F5497BFE5D277581949100C0631A;10874.
+(rerunfilecheck)             After:  6778D2DEE9111A56F885B00105B1166C;9891.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                thesis
@@ -1990,18 +1961,18 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30472 strings out of 473190
- 522454 string characters out of 5704335
+ 30455 strings out of 473190
+ 522289 string characters out of 5704335
  1396448 words of memory out of 5000000
- 53002 multiletter control sequences out of 15000+600000
+ 52996 multiletter control sequences out of 15000+600000
  597136 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  92i,7n,95p,1321b,2952s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on thesis.pdf (52 pages, 311106 bytes).
+Output written on thesis.pdf (48 pages, 309078 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 389 compressed objects within 4 object streams
- 131 named destinations out of 1000 (max. 500000)
+ 438 PDF objects out of 1000 (max. 8388607)
+ 370 compressed objects within 4 object streams
+ 122 named destinations out of 1000 (max. 500000)
  37394 words of extra memory for PDF output out of 42996 (max. 10000000)
 
