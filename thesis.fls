@@ -401,6 +401,8 @@ OUTPUT kap01.aux
 INPUT ./kap01.tex
 INPUT ./kap01.tex
 INPUT kap01.tex
+INPUT /Users/annaradyuk/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
+INPUT /Users/annaradyuk/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
 INPUT ./kap02.tex
 INPUT ./kap02.tex
 OUTPUT kap02.aux
@@ -505,6 +507,7 @@ INPUT ./thesis.out
 INPUT ./thesis.out
 OUTPUT thesis.run.xml
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
+INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb

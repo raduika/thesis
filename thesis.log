@@ -1,22 +1,19 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  25 JUL 2026 22:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  27 JUL 2026 17:09
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**thesis.tex
-(./thesis.tex
+**/Users/annaradyuk/Desktop/thesis/thesis.tex
+(/Users/annaradyuk/Desktop/thesis/thesis.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (./metadata.tex) (./xmp.tex
 \xmp=\write3
 \openout3 = `thesis.xmpdata'.
 
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/report
-.cls
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2024/06/29 v1.4n Standard LaTeX document class
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/size12
-.clo
+(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count196
@@ -31,68 +28,41 @@ File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/pdfx.s
-ty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/pdfx.sty
 Package: pdfx 2024/06/24 v1.6.5f PDF/X and PDF/A support (CVR/HTH/RRM/PS)
 \pdfx@minorversion=\count271
 \pdfx@majorversion=\count272
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/iftex/ifl
-uatex.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/iftex/ift
-ex.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
-))
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/iftex/ifp
-df.sty
+)) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/iftex/ifx
-etex.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/everyshi/ev
-eryshi.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/everyshi/everyshi.sty
 Package: everyshi 2020/11/18 v4.00 EveryShipout Package
-){/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/pdftex/upd
-map/pdftex.map}
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/inpute
-nc.sty
+){/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/l8u-pe
-nc.def
-File: l8u-penc.def 2017/06/23 v0.8 Custom LaTeX file, for UTF8 encoded letters 
-and symbols
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/l8u-penc.def
+File: l8u-penc.def 2017/06/23 v0.8 Custom LaTeX file, for UTF8 encoded letters and symbols
 LaTeX Info: Composite with undeclared \b in encoding L8U on input line 278.
 )
 \pdfxsafeforxmp@toks=\toks19
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/xcolor/xcol
-or.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics-cf
-g/color.cfg
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 
-Package xcolor Warning: Package option `hyperref' is obsolete and ignored on in
-put line 265.
+Package xcolor Warning: Package option `hyperref' is obsolete and ignored on input line 265.
 
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics-de
-f/pdftex.def
+(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics/ma
-thcolor.ltx)
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -104,93 +74,55 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
 \pdfx@tmptoks=\toks20
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/hy
-perref.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics/ke
-yval.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/kvsetkeys/k
-vsetkeys.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/kvdefinek
-eys/kvdefinekeys.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/pdfescape
-/pdfescape.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/ltxcmds/l
-txcmds.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/pdftexcmd
-s/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/infwarerr
-/infwarerr.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-))
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hycolor/hyc
-olor.sty
+)) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/na
-meref.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/refcount/re
-fcount.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/gettitles
-tring/gettitlestring.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/kvoptions/k
-voptions.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count273
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/etoolbox/et
-oolbox.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count274
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/stringenc
-/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen142
 \Hy@linkcounter=\count275
 \Hy@pagecounter=\count276
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/pd
-1enc.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/intcalc/i
-ntcalc.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count277
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/pu
-enc.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Option `pdfa' set `true' on input line 4040.
@@ -202,22 +134,16 @@ Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
 \c@Hy@tempcnt=\count278
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/url/url.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen143
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/bitset/bi
-tset.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/bigintcal
-c/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count279
 \Field@Width=\dimen144
@@ -229,9 +155,7 @@ Package hyperref Info: backreferencing OFF on input line 6057.
 Package hyperref Info: Link coloring OFF on input line 6062.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode ON on input line 6070.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/atbegs
-hi-ltx.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -240,86 +164,45 @@ package with kernel methods
 \c@Hfootnote=\count282
 )
 Package hyperref Info: Driver: hpdftex.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/hp
-dftex.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/atvery
-end-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \Fld@listcount=\count283
 \c@bookmark@seq@number=\count284
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/rerunfilech
-eck/rerunfilecheck.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/uniquecou
-nter/uniquecounter.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip51
 )
 Package hyperref Info: Option `psdextra' set `true' on input line 1535.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/ps
-dextra.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/hyperref/psdextra.def
 File: psdextra.def 2024-11-05 v7.01l Hyperref: Additions to PDF string support
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/colorprof
-iles/colorprofiles.sty
-Package: colorprofiles 2018/11/01 v1.0.1 color profiles for PDF/X and PDF/A sup
-port
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/colorprof
-iles/colorprofiles.tex))
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/AdobeC
-olorProfiles.tex)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/8bit.d
-ef
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/colorprofiles/colorprofiles.sty
+Package: colorprofiles 2018/11/01 v1.0.1 color profiles for PDF/X and PDF/A support
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/colorprofiles/colorprofiles.tex)) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/AdobeColorProfiles.tex) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/8bit.def
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
 )
 ** pdfx: Metadata file thesis.xmpdata read successfully.
-(./thesis.xmpdata)<<sRGB.icc>>
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/8bit.d
-ef
+(./thesis.xmpdata)<<sRGB.icc>> (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/8bit.def
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/8bit.d
-ef
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/8bit.def
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/stringenc
-/se-utf8.def
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/8bit.d
-ef
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/8bit.def
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/pdftex/gl
-yphtounicode.tex)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/glypht
-ounicode-cmr.tex)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/glypht
-ounicode-ntx.tex)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/ifthen
-.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/pdftex/glyphtounicode.tex) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/glyphtounicode-cmr.tex) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/glyphtounicode-ntx.tex) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/xmpincl/xmp
-incl.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/xmpincl/xmpincl.sty
 Package: xmpincl 2021/09/22 v2.4 Include XMP data in pdflatex
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/8bit.d
-ef
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/pdfx/8bit.def
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
 )
 Using XMP template file: pdfa.xmp
@@ -332,17 +215,13 @@ Using XMP template file: pdfa.xmp
 Package pdfx Warning: Setting all color commands to rgb,
 consistent with the Color Model for PDF/A  on input line 3126.
 
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/utf8.d
-ef
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2022/06/07 v1.3c UTF-8 support
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/omsenc
-.dfu
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -353,9 +232,7 @@ File: omsenc.dfu 2022/06/07 v1.3c UTF-8 support
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/ot1enc
-.dfu
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -403,9 +280,7 @@ File: ot1enc.dfu 2022/06/07 v1.3c UTF-8 support
 )
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/t1enc.
-dfu
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -684,9 +559,7 @@ File: t1enc.dfu 2022/06/07 v1.3c UTF-8 support
 )
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/ts1enc
-.dfu
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/ts1enc.dfu
 File: ts1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -782,22 +655,15 @@ Now handling font encoding PU ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
    defining Unicode char U+FEFF (decimal 65279)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel/bab
-el.sty
-Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
-eX and XeLaTeX
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
 \babel@savecnt=\count285
 \U@D=\dimen146
 \l@unhyphenated=\language90
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel/txt
-babel.def)
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
 \bbl@dirlevel=\count286
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel-rus
-sian/russianb.ldf
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
 
@@ -806,16 +672,11 @@ Package babel Warning: No Cyrillic font encoding has been loaded so far.
 (babel)                A font encoding should be declared before babel.
 (babel)                Default `T2A' encoding will be loaded  on input line 78.
 
-
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/cyrillic/t2
-aenc.def
+(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/t2aenc
-.dfu
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/t2aenc.dfu
 File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -1018,25 +879,17 @@ File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
 ))
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel-cze
-ch/czech.ldf
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel-czech/czech.ldf
 Language: czech 2008/07/06 v3.1a Czech support from the babel system
 \cs@wordlen=\count287
 Package babel Info: Making - an active character on input line 226.
-))
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel/loc
-ale/cs/babel-czech.tex
+)) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel/locale/cs/babel-czech.tex
 Package babel Info: Importing font and identification data for czech
 (babel)             from babel-cs.ini. Reported on input line 11.
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel/loc
-ale/ru/babel-russian.tex
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
 Package babel Info: Importing font and identification data for russian
 (babel)             from babel-ru.ini. Reported on input line 11.
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/lmodern.
-sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -1070,57 +923,37 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/inpute
-nc.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/fonten
-c.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T2A+lmr on input line 1
-16.
+LaTeX Font Info:    Trying to load font information for T2A+lmr on input line 116.
 LaTeX Font Info:    No file T2Almr.fd. on input line 116.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
-16.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/cyrillic/t2
-acmr.fd
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 116.
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/n' undefined
 (Font)              using `T2A/cmr/m/n' instead on input line 116.
 
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/textco
-mp.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsmath/ams
-math.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2024/11/05 v2.17t AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsmath/ams
-text.sty
+(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsmath/ams
-gen.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
 \ex@=\dimen147
-))
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsmath/ams
-bsy.sty
+)) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen148
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsmath/ams
-opn.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count288
@@ -1170,18 +1003,14 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsfonts/am
-sfonts.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amscls/amst
-hm.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks27
 \thm@bodyfont=\toks28
@@ -1192,9 +1021,7 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip56
 \thm@headsep=\skip57
 \dth@everypar=\toks32
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/tools/bm.st
-y
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2023/12/19 v1.2f Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
 \symboldletters=\mathgroup7
@@ -1203,9 +1030,7 @@ Package bm Info: No bold for \OMX/lmex/m/n, using \pmb.
 Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/booktabs/bo
-oktabs.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen156
 \lightrulewidth=\dimen157
@@ -1224,13 +1049,9 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count302
 \@lastruleclass=\count303
 \@thisrulewidth=\dimen168
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/caption/cap
-tion.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/caption/cap
-tion3.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen169
 \captionmargin=\dimen170
@@ -1245,9 +1066,7 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count304
 \c@continuedfloat=\count305
 Package caption Info: hyperref package is loaded.
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/csquotes/cs
-quotes.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@reset=\count306
 \csq@gtype=\count307
@@ -1256,24 +1075,16 @@ Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@maxlvl=\count310
 \csq@tshold=\count311
 \csq@ltx@everypar=\toks33
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/csquotes/cs
-quotes.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/csquotes/cs
-quotes.cfg
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
-))
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/tools/dcolu
-mn.sty
+)) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/tools/dcolumn.sty
 Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/tools/array
-.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/tools/array.sty
 Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \col@sep=\dimen177
 \ar@mcellbox=\box54
@@ -1282,9 +1093,7 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \extratabsurround=\skip58
 \backup@length=\skip59
 \ar@cellbox=\box55
-))
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/floatrow/fl
-oatrow.sty
+)) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/floatrow/floatrow.sty
 Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
 \c@float@type=\count312
 \float@exts=\toks35
@@ -1292,7 +1101,6 @@ Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
 \@floatcapt=\box57
 Package floatrow Info: Modified float package code loaded on input line 455.
 Package floatrow Info: Modified rotfloat package code loaded on input line 473.
-
 \FR@everyfloat=\toks36
 \flrow@foot=\insert252
 \FB@wd=\dimen179
@@ -1321,38 +1129,24 @@ Package floatrow Info: Modified rotfloat package code loaded on input line 473.
 \LTleft=\skip72
 \LTright=\skip73
 \flrow@types=\toks37
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics/gr
-aphicx.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics/gr
-aphics.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics/tr
-ig.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics-cf
-g/graphics.cfg
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 )
 \Gin@req@height=\dimen183
 \Gin@req@width=\dimen184
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/was/icomma.
-sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/was/icomma.sty
 Package: icomma 2002/03/10 v2.0 (WaS)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/tools/inden
-tfirst.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/m
-icrotype.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
 \MT@toks=\toks38
 \MT@tempbox=\box59
@@ -1366,34 +1160,25 @@ LaTeX Info: Redefining \textls on input line 1449.
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 \MT@listname@count=\count320
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/m
-icrotype-pdftex.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
-
 LaTeX Info: Redefining \lsstyle on input line 944.
 LaTeX Info: Redefining \lslig on input line 944.
 \MT@outer@space=\skip74
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/m
-icrotype.cfg
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2025/02/11 v3.2a microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/paralist/pa
-ralist.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/paralist/paralist.sty
 Package: paralist 2017/01/22 v2.7 Extended list environments
 \pltopsep=\skip75
 \plpartopsep=\skip76
 \plitemsep=\skip77
 \plparsep=\skip78
 \pl@lab=\toks40
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/tocbibind/t
-ocbibind.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
 
@@ -1403,13 +1188,9 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 )
 Package hyperref Info: Option `unicode' set `true' on input line 80.
 Package hyperref Info: Option `breaklinks' set `true' on input line 80.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/algorithmic
-x/algpseudocode.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
 Package: algpseudocode 
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/algorithmic
-x/algorithmicx.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -1425,15 +1206,10 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip81
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/algorithms/
-algorithm.sty
-Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
-nment
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
 \c@algorithm=\count328
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/fancyvrb/fa
-ncyvrb.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
 \FV@CodeLineNo=\count329
 \FV@InFile=\read4
@@ -1441,9 +1217,7 @@ Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
 \c@FancyVerbLine=\count330
 \FV@StepNumber=\count331
 \FV@OutFile=\write5
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/li
-stings.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count332
 \lst@gtempboxa=\box61
 \lst@token=\toks41
@@ -1456,35 +1230,23 @@ stings.sty
 \lst@newlines=\count336
 \lst@lineno=\count337
 \lst@maxwidth=\dimen189
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/ls
-tpatch.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/lstpatch.sty
 File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/ls
-tmisc.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 \c@lstnumber=\count338
 \lst@skipnumbers=\count339
 \lst@framebox=\box62
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/li
-stings.cfg
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2024/09/23 1.10c listings configuration
 ))
 Package: listings 2024/09/23 1.10c (Carsten Heinz)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/bi
-blatex.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/logreq/logr
-eq.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count340
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/logreq/logr
-eq.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 \c@tabx@nest=\count341
@@ -1546,16 +1308,12 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \c@mincompwidth=\count386
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/bl
-x-dm.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'iso-numeric.dbx' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-is
-o690/iso-numeric.dbx
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-iso690/iso-numeric.dbx
 File: iso-numeric.dbx 2022/03/20 v0.4.1 ISO 690 biblatex data model extension
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -1646,16 +1404,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip103
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/bl
-x-compat.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/bi
-blatex.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 \c@textcitecount=\count457
 \c@textcitetotal=\count458
@@ -1673,24 +1427,17 @@ File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/bl
-x-natbib.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/blx-natbib.def
 File: blx-natbib.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
- overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
 )
 Package biblatex Info: Trying to load bibliography style 'iso-numeric'...
 Package biblatex Info: ... file 'iso-numeric.bbx' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-is
-o690/iso-numeric.bbx
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-iso690/iso-numeric.bbx
 File: iso-numeric.bbx 2022/03/20 v0.4.1 ISO 690 biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'iso'...
 Package biblatex Info: ... file 'iso.bbx' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-is
-o690/iso.bbx
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-iso690/iso.bbx
 File: iso.bbx 2022/03/20 v0.4.1 ISO 690 biblatex bibliography style
 Package biblatex-iso690 Info: Space colon enabled: false.
 Package biblatex-iso690 Info: Total pages enabled: false.
@@ -1702,29 +1449,19 @@ Package biblatex-iso690 Info: DOI field enabled: true.
 Package biblatex-iso690 Info: eprint field enabled: true.
 Package biblatex-iso690 Info: Article publication info enabled: false.
 Package biblatex-iso690 Info: Use current language for the bibliography: false.
-
-Package biblatex-iso690 Info: Use no end dot for the bibliography entries: fals
-e.
-Package biblatex Info: Delimiter 'multinamedelim' in context '' already defined
-, overwriting.
-Package biblatex Info: Delimiter 'finalnamedelim' in context '' already defined
-, overwriting.
-Package biblatex Info: Delimiter 'editortypedelim' in context '' already define
-d, overwriting.
-Package biblatex Info: Delimiter 'authortypedelim' in context '' already define
-d, overwriting.
+Package biblatex-iso690 Info: Use no end dot for the bibliography entries: false.
+Package biblatex Info: Delimiter 'multinamedelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'finalnamedelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'editortypedelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'authortypedelim' in context '' already defined, overwriting.
 ))
 Package biblatex Info: Trying to load citation style 'iso-numeric'...
 Package biblatex Info: ... file 'iso-numeric.cbx' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-is
-o690/iso-numeric.cbx
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-iso690/iso-numeric.cbx
 File: iso-numeric.cbx 2022/03/20 v0.4.1 ISO 690 biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/cb
-x/numeric.cbx
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
 File: numeric.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -1740,11 +1477,8 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load citation style 'iso-fullcite'...
 Package biblatex Info: ... file 'iso-fullcite.cbx' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-is
-o690/iso-fullcite.cbx
-File: iso-fullcite.cbx 2022/03/20 v0.4.1 ISO 690 biblatex fullcite modification
-s
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-iso690/iso-fullcite.cbx
+File: iso-fullcite.cbx 2022/03/20 v0.4.1 ISO 690 biblatex fullcite modifications
 Package biblatex Info: Redefining '\fullcite'.
 Package biblatex Info: Redefining '\footfullcite'.
 )
@@ -1752,20 +1486,14 @@ Package biblatex Info: Redefining '\parencite'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/bi
-blatex.cfg
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/l3kernel/ex
-pl3.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2025-01-18 L3 programming layer (loader) 
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/l3backend/l
-3backend-pdftex.def
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count466
 \l__pdf_internal_box=\box63
@@ -1774,28 +1502,18 @@ Package biblatex Info: ... and expl3
 (biblatex)             2025-01-18 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/bl
-x-case-expl3.sty
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/l3packages/
-xparse/xparse.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 )) (./macros.tex
 \c@veta=\count467
 \c@definice=\count468
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/ls
-tlang1.sty
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/ls
-tlang1.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/ls
-tmisc.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 )
 \c@listing=\count469
@@ -1804,8 +1522,8 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'czech'.
- (./thesis.aux (./title.aux) (./uvod.aux) (./kap01.aux) (./kap02.aux) (./kap03.
-aux) (./zaver.aux) (./literatura.aux))
+
+No file thesis.aux.
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
@@ -1828,9 +1546,7 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 115.
 LaTeX Font Info:    ... okay on input line 115.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 115.
 LaTeX Font Info:    ... okay on input line 115.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/context/base/mkii
-/supp-pdf.mkii
+(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count470
 \scratchdimen=\dimen190
@@ -1843,20 +1559,13 @@ LaTeX Font Info:    ... okay on input line 115.
 \MPnumerator=\count474
 \makeMPintoPDFobject=\count475
 \everyMPtoPDFconversion=\toks43
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/epstopdf-pk
-g/epstopdf-base.sty
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/latexconfig
-/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 115.
- (./thesis.out) (./thesis.out)
 \@outlinefile=\write7
 \openout7 = `thesis.out'.
 
@@ -1883,31 +1592,22 @@ LaTeX Info: Redefining \showhyphens on input line 115.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/m
-t-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 \c@lstlisting=\count476
 Package biblatex Info: Trying to load language 'czech' -> 'czech-iso'...
 Package biblatex Info: ... file 'czech-iso.lbx' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-is
-o690/czech-iso.lbx
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex-iso690/czech-iso.lbx
 File: czech-iso.lbx 2022/03/20 v0.4.1 ISO 690 extended biblatex localization
 Package biblatex Info: Trying to load language 'czech'...
 Package biblatex Info: ... file 'czech.lbx' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/lb
-x/czech.lbx
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/lbx/czech.lbx
 File: czech.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'czech'...
 Package biblatex Info: ... file 'czech.lbx' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/lb
-x/czech.lbx
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/lbx/czech.lbx
 File: czech.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 ))
 
@@ -1916,9 +1616,7 @@ Package biblatex Warning: File 'russian-iso.lbx' not found!
 
 Package biblatex Info: Trying to load language 'russian'...
 Package biblatex Info: ... file 'russian.lbx' found.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/lb
-x/russian.lbx
+(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
 File: russian.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1940,7 +1638,7 @@ Package hyperref Info: Option `pageanchor' set `false' on input line 39.
 LaTeX Font Warning: Font shape `T2A/lmr/bx/n' undefined
 (Font)              using `T2A/lmr/m/n' instead on input line 43.
 
-<img/logo.png, id=147, 250.9375pt x 250.9375pt>
+<img/logo.png, id=7, 250.9375pt x 250.9375pt>
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 51.
@@ -1950,15 +1648,14 @@ Package pdftex.def Info: img/logo.png  used on input line 51.
 [1
 
 
-{/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/cm-su
-per/cm-super-t2a.enc} <./img/logo.png>]
+{/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc} <./img/logo.png>]
 Package hyperref Info: Option `pageanchor' set `true' on input line 79.
 
 
 [2
 
 ]
-! Undefined control sequence.
+./title.tex:114: Undefined control sequence.
 l.114 ...áce: \Supervisor, \SupervisorsDepartment
                                                   
 The control sequence at the end of the top line
@@ -1967,7 +1664,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
+./title.tex:130: Undefined control sequence.
 l.130 ...or: \Supervisor, \SupervisorsDepartmentEN
                                                   
 The control sequence at the end of the top line
@@ -1981,61 +1678,8 @@ and I'll forget about whatever was undefined.
 [3
 
 
-]) (./thesis.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
-.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/ot1lmr.f
-d
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
-.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/omllmm.f
-d
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-3.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/omslmsy.
-fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-3.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/omxlmex.
-fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 3.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 3.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsfonts/um
-sa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/m
-t-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
-
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsfonts/um
-sb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/m
-t-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-))
+])
+No file thesis.toc.
 \tf@toc=\write8
 \openout8 = `thesis.toc'.
 
@@ -2065,9 +1709,8 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
  (./kap01.tex
 Kapitola 1.
 
-Underfull \hbox (badness 1383) in paragraph at lines 19--22
-[]\T2A/lmr/bx/n/12 (+20) Z^^Aasadn^^Ge odli^^Gsnou in-te-lektu^^Aaln^^A^^Y mo^^
-Gznost otev^^Grelo k^^Gres[]tansk^^Ae st^^Gredov^^Gek.
+Underfull \hbox (badness 1237) in paragraph at lines 19--22
+[]\T2A/lmr/bx/n/12 (+20) Z^^Aasadn^^Ge odli^^Gsnou in-te-lektu^^Aaln^^A^^Y mo^^Gznost otev^^Grelo k^^Gres[]tansk^^Ay st^^Gredov^^Gek.
  []
 
 
@@ -2078,42 +1721,44 @@ Gznost otev^^Grelo k^^Gres[]tansk^^Ae st^^Gredov^^Gek.
 
 
 ]
-Underfull \hbox (badness 3343) in paragraph at lines 49--49
-[]\T2A/lmr/bx/n/17.28 (+20) Transformace pojmu "my^^Gslen^^A^^Y": od lidsk^^Aeh
-o k
+
+[10]
+Underfull \hbox (badness 3343) in paragraph at lines 57--57
+[]\T2A/lmr/bx/n/17.28 (+20) Transformace pojmu "my^^Gslen^^A^^Y": od lidsk^^Aeho k
  []
 
 
-
-[10]
-Underfull \hbox (badness 1033) in paragraph at lines 55--60
-[]\T2A/lmr/bx/n/12 (+20) Kartezi^^Aansk^^Ay me-cha-ni-cis-mus pro-vedl prvn^^A^
-^Y z^^Au^^Gzen^^A^^Y: my^^Gslen^^A^^Y za^^Gcalo b^^Ayt
+Underfull \hbox (badness 1033) in paragraph at lines 63--68
+[]\T2A/lmr/bx/n/12 (+20) Kartezi^^Aansk^^Ay me-cha-ni-cis-mus pro-vedl prvn^^A^^Y z^^Au^^Gzen^^A^^Y: my^^Gslen^^A^^Y za^^Gcalo b^^Ayt
  []
 
 
 
 [11]
-Underfull \hbox (badness 1701) in paragraph at lines 88--91
-[]\T2A/lmr/bx/n/12 (+20) V tomto kon-textu je vhodn^^Ae p^^Gripomenout Agam-ben
-a. Jeho kon-cept
+
+[12]
+Underfull \hbox (badness 1701) in paragraph at lines 100--105
+[]\T2A/lmr/bx/n/12 (+20) V tomto kon-textu je vhodn^^Ae p^^Gripomenout Agam-bena. Jeho kon-cept
  []
 
 
 
-[12]
-
 [13]
 
-[14])
+[14]
 
-[15]
+[15])
 
 [16]
 \openout2 = `kap02.aux'.
 
  (./kap02.tex
 Kapitola 2.
+
+Underfull \hbox (badness 1442) in paragraph at lines 13--13
+[]\T2A/lmr/bx/n/17.28 (+20) Habermas^^Fuv roz-voj: ko-mu-ni-ka-tivn^^A^^Y ra-ci-o-na-lita a
+ []
+
 
 
 [17
@@ -2149,23 +1794,23 @@ Kapitola 2.
 
 [30]
 
-[31])
+[31]
 
-[32]
+[32])
+
+[33]
 \openout2 = `kap03.aux'.
 
  (./kap03.tex
 Kapitola 3.
 
 
-[33
+[34
 
 
 
 
 ]
-
-[34]
 
 [35]
 
@@ -2179,21 +1824,35 @@ Kapitola 3.
 
 [40]
 
-[41])
+[41]
+Underfull \hbox (badness 1406) in paragraph at lines 146--156
+[]\T2A/lmr/bx/n/12 (+20) (c) Struk-tur^^Aaln^^A^^Y teze ^^V teze p^^Gredkl^^Aadan^^Ae pr^^Aace: nev^^Aazan^^Ae do-mi-nium
+ []
 
-[42]
+
+Underfull \hbox (badness 1454) in paragraph at lines 146--156
+\T2A/lmr/bx/n/12 (+20) je podm^^A^^Ynkou mo^^Gznosti au-to-rit^^Aa^^Grsk^^Aeho ucho-pen^^A^^Y. In-frastruk-tura sv^^Aevoln^^Ae,
+ []
+
+
+
+[42])
+
+[43]
+
+[44]
 \openout2 = `zaver.aux'.
 
  (./zaver.tex
 
-[43
+[45
 
 
 
 
 ])
 
-[44]
+[46]
 \openout2 = `literatura.aux'.
 
  (./literatura.tex
@@ -2205,35 +1864,54 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/sc' undefined
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/n' instead on input line 15.
 
-LaTeX Font Info:    Trying to load font information for T2A+lmtt on input line 
-15.
+LaTeX Font Info:    Trying to load font information for T2A+lmtt on input line 15.
 LaTeX Font Info:    No file T2Almtt.fd. on input line 15.
 
 LaTeX Font Warning: Font shape `T2A/lmtt/m/n' undefined
 (Font)              using `T2A/cmr/m/n' instead on input line 15.
 
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 15.
+(/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 15.
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 15.
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 15.
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+ (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T2A).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
 Underfull \hbox (badness 1158) in paragraph at lines 15--15
-[]\T2A/lmr/m/it/12 (+20) Searle, John R. Minds, Bra-ins and Pro-grams. The Be-h
-a-vi-o-ral and
+[]\T2A/lmr/m/it/12 (+20) Searle, John R. Minds, Bra-ins and Pro-grams. The Be-ha-vi-o-ral and
  []
-
-
-
-[45
-
-
-
-
-])
-
-[46] (./thesis.lof)
-\tf@lof=\write9
-\openout9 = `thesis.lof'.
 
 
 
@@ -2241,17 +1919,32 @@ a-vi-o-ral and
 
 
 
-] (./thesis.lot)
+
+])
+
+[48]
+No file thesis.lof.
+\tf@lof=\write9
+\openout9 = `thesis.lof'.
+
+
+
+[49
+
+
+
+]
+No file thesis.lot.
 \tf@lot=\write10
 \openout10 = `thesis.lot'.
 
 
 
-[48
+[50
 
 ]
 
-[49
+[51
 
 ]
 P\v {r}\'{\i }loha A.
@@ -2265,10 +1958,9 @@ See the caption package documentation for explanation.
 
 
 
-[50
+[52
 
-] (./thesis.aux (./title.aux) (./uvod.aux) (./kap01.aux) (./kap02.aux)
-(./kap03.aux) (./zaver.aux) (./literatura.aux))
+] (./thesis.aux (./title.aux) (./uvod.aux) (./kap01.aux) (./kap02.aux) (./kap03.aux) (./zaver.aux) (./literatura.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -2277,30 +1969,39 @@ L3 programming layer <2025-01-18>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 8F77F120929D477C2EF6E88B296E8DC5;7635.
+
+LaTeX Warning: There were undefined references.
+
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  AA92F5497BFE5D277581949100C0631A;10874.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                thesis
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30523 strings out of 473190
- 522969 string characters out of 5704335
- 1419747 words of memory out of 5000000
- 53046 multiletter control sequences out of 15000+600000
- 595378 words of font info for 132 fonts, out of 8000000 for 9000
+ 30472 strings out of 473190
+ 522454 string characters out of 5704335
+ 1396448 words of memory out of 5000000
+ 53002 multiletter control sequences out of 15000+600000
+ 597136 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  92i,7n,95p,1321b,2952s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/
-cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist
-/fonts/type1/public/cm-super/sfrm1728.pfb></opt/homebrew/Cellar/texlive/2025030
-8_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></opt/homebrew/Ce
-llar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.p
-fb>
-Output written on thesis.pdf (50 pages, 302332 bytes).
+</opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
+Output written on thesis.pdf (52 pages, 311106 bytes).
 PDF statistics:
- 579 PDF objects out of 1000 (max. 8388607)
- 509 compressed objects within 6 object streams
- 118 named destinations out of 1000 (max. 500000)
- 33578 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 461 PDF objects out of 1000 (max. 8388607)
+ 389 compressed objects within 4 object streams
+ 131 named destinations out of 1000 (max. 500000)
+ 37394 words of extra memory for PDF output out of 42996 (max. 10000000)
 
