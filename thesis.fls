@@ -1,7 +1,7 @@
 PWD /Users/annaradyuk/Desktop/thesis
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/web2c/texmf.cnf
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT thesis.tex
+INPUT /Users/annaradyuk/Desktop/thesis/thesis.tex
 OUTPUT thesis.log
 INPUT metadata.tex
 INPUT xmp.tex
@@ -374,6 +374,9 @@ INPUT zaver.aux
 INPUT ./literatura.aux
 INPUT ./literatura.aux
 INPUT literatura.aux
+INPUT ./zkratky.aux
+INPUT ./zkratky.aux
+INPUT zkratky.aux
 OUTPUT thesis.aux
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -476,6 +479,7 @@ INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/lm/lmbsy7.tfm
+INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 OUTPUT thesis.toc
 INPUT ./uvod.tex
 INPUT ./uvod.tex
@@ -491,6 +495,7 @@ INPUT ./kap01.tex
 INPUT kap01.tex
 INPUT /Users/annaradyuk/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
 INPUT /Users/annaradyuk/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
+INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/lm/rm-lmbx12.tfm
 INPUT ./kap02.tex
 INPUT ./kap02.tex
 OUTPUT kap02.aux
@@ -518,6 +523,12 @@ INPUT literatura.tex
 INPUT /Users/annaradyuk/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
 INPUT /Users/annaradyuk/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
 INPUT /Users/annaradyuk/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
+INPUT ./zkratky.tex
+INPUT ./zkratky.tex
+OUTPUT zkratky.aux
+INPUT ./zkratky.tex
+INPUT ./zkratky.tex
+INPUT zkratky.tex
 INPUT thesis.aux
 INPUT ./title.aux
 INPUT ./title.aux
@@ -540,10 +551,15 @@ INPUT zaver.aux
 INPUT ./literatura.aux
 INPUT ./literatura.aux
 INPUT literatura.aux
+INPUT ./zkratky.aux
+INPUT ./zkratky.aux
+INPUT zkratky.aux
 INPUT ./thesis.out
 INPUT ./thesis.out
 INPUT thesis.run.xml
 OUTPUT thesis.run.xml
+INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
+INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb
