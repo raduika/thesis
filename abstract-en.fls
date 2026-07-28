@@ -217,6 +217,8 @@ INPUT abstract-en.out
 INPUT ./abstract-en.out
 INPUT ./abstract-en.out
 OUTPUT abstract-en.out
+INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT abstract-en.aux
 INPUT ./abstract-en.out
 INPUT ./abstract-en.out
+INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb

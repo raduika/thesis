@@ -18,66 +18,449 @@
 
 
 \refsection{0}
-  \datalist[entry]{none/global//global/global/global}
-    \entry{Wiener48}{book}{}{}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Agamben05}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=4c57f398a86ab1994e9bd661e786e707}{%
-           family={Wiener},
+        {{hash=8c74b403c34f5bada1d8b1bd87b56556}{%
+           family={Agamben},
+           familyi={A\bibinitperiod},
+           given={Giorgio},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{8c74b403c34f5bada1d8b1bd87b56556}
+      \strng{fullhash}{8c74b403c34f5bada1d8b1bd87b56556}
+      \strng{fullhashraw}{8c74b403c34f5bada1d8b1bd87b56556}
+      \strng{bibnamehash}{8c74b403c34f5bada1d8b1bd87b56556}
+      \strng{authorbibnamehash}{8c74b403c34f5bada1d8b1bd87b56556}
+      \strng{authornamehash}{8c74b403c34f5bada1d8b1bd87b56556}
+      \strng{authorfullhash}{8c74b403c34f5bada1d8b1bd87b56556}
+      \strng{authorfullhashraw}{8c74b403c34f5bada1d8b1bd87b56556}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Trans. by K. Attell}
+      \field{title}{State of {E}xception}
+      \field{year}{2005}
+    \endentry
+    \entry{AkbariWood25}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3ce9b48f5c013e41888c5d0971dd8f71}{%
+           family={Akbari},
+           familyi={A\bibinitperiod},
+           given={Azadeh},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b62efd7f532e846ba84da804118125a2}{%
+           family={Wood},
            familyi={W\bibinitperiod},
-           given={Norbert},
+           given={David\bibnamedelima Murakami},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f97505af1644d95e0b98f2a691b441f}
+      \strng{fullhash}{6f97505af1644d95e0b98f2a691b441f}
+      \strng{fullhashraw}{6f97505af1644d95e0b98f2a691b441f}
+      \strng{bibnamehash}{6f97505af1644d95e0b98f2a691b441f}
+      \strng{authorbibnamehash}{6f97505af1644d95e0b98f2a691b441f}
+      \strng{authornamehash}{6f97505af1644d95e0b98f2a691b441f}
+      \strng{authorfullhash}{6f97505af1644d95e0b98f2a691b441f}
+      \strng{authorfullhashraw}{6f97505af1644d95e0b98f2a691b441f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surveillance {\&} Society}
+      \field{number}{1}
+      \field{title}{Towards a Critical Political Economy of Surveillance and Digital Authoritarianism}
+      \field{volume}{23}
+      \field{year}{2025}
+      \field{pages}{152\bibrangedash 158}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb https://ojs.library.queensu.ca/index.php/surveillance-and-society/index
+      \endverb
+      \verb{url}
+      \verb https://ojs.library.queensu.ca/index.php/surveillance-and-society/index
+      \endverb
+    \endentry
+    \entry{Arendt63}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f50f57f3bb1808b3fd67c3e65baf025f}{%
+           family={Arendt},
+           familyi={A\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Viking Press}%
+      }
+      \strng{namehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{bibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorbibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authornamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Eichmann in {J}erusalem: {A} Report on the Banality of Evil}
+      \field{year}{1963}
+    \endentry
+    \entry{Arendt03}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=f50f57f3bb1808b3fd67c3e65baf025f}{%
+           family={Arendt},
+           familyi={A\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=fbbfc7f2ae1f5070fdf53fff6ef3dd74}{%
+           family={Kohn},
+           familyi={K\bibinitperiod},
+           given={Jerome},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Schocken Books}%
+      }
+      \strng{namehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{fullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{bibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorbibnamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authornamehash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhash}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{authorfullhashraw}{f50f57f3bb1808b3fd67c3e65baf025f}
+      \strng{editorbibnamehash}{fbbfc7f2ae1f5070fdf53fff6ef3dd74}
+      \strng{editornamehash}{fbbfc7f2ae1f5070fdf53fff6ef3dd74}
+      \strng{editorfullhash}{fbbfc7f2ae1f5070fdf53fff6ef3dd74}
+      \strng{editorfullhashraw}{fbbfc7f2ae1f5070fdf53fff6ef3dd74}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Responsibility and Judgment}
+      \field{note}{Original essay 1964}
+      \field{title}{Personal Responsibility Under Dictatorship}
+      \field{year}{2003}
+    \endentry
+    \entry{Belgroun25}{misc}{}{}
+      \name{author}{3}{}{%
+        {{hash=8e75c743374a50767248db72b296d574}{%
+           family={Belgroun},
+           familyi={B\bibinitperiod},
+           given={Hamza},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f1a5ecde19ba723e1c7c9cba9892e7d0}{%
+           family={Michel},
+           familyi={M\bibinitperiod},
+           given={Franck},
+           giveni={F\bibinitperiod}}}%
+        {{hash=d90c37a4d07623002bb1e34c8fbc4c38}{%
+           family={Gandon},
+           familyi={G\bibinitperiod},
+           given={Fabien},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b84805aec10173e063ffc8fa42f5c50}
+      \strng{fullhash}{7daf9ae60db838942e9cbcab60753e42}
+      \strng{fullhashraw}{7daf9ae60db838942e9cbcab60753e42}
+      \strng{bibnamehash}{7daf9ae60db838942e9cbcab60753e42}
+      \strng{authorbibnamehash}{7daf9ae60db838942e9cbcab60753e42}
+      \strng{authornamehash}{8b84805aec10173e063ffc8fa42f5c50}
+      \strng{authorfullhash}{7daf9ae60db838942e9cbcab60753e42}
+      \strng{authorfullhashraw}{7daf9ae60db838942e9cbcab60753e42}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{arXiv:2509.06453v2 [cs.SI]}
+      \field{title}{No Such Thing as Free Brain Time: {F}or a {P}igouvian Tax on Attention Capture}
+      \field{year}{2025}
+    \endentry
+    \entry{Benjamin19}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e637ce247950d32eb83386e749ae10e3}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={Ruha},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Polity Press}%
+      }
+      \strng{namehash}{e637ce247950d32eb83386e749ae10e3}
+      \strng{fullhash}{e637ce247950d32eb83386e749ae10e3}
+      \strng{fullhashraw}{e637ce247950d32eb83386e749ae10e3}
+      \strng{bibnamehash}{e637ce247950d32eb83386e749ae10e3}
+      \strng{authorbibnamehash}{e637ce247950d32eb83386e749ae10e3}
+      \strng{authornamehash}{e637ce247950d32eb83386e749ae10e3}
+      \strng{authorfullhash}{e637ce247950d32eb83386e749ae10e3}
+      \strng{authorfullhashraw}{e637ce247950d32eb83386e749ae10e3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Race After Technology: {A}bolitionist Tools for the New Jim Code}
+      \field{year}{2019}
+    \endentry
+    \entry{Bruns19}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=6875548170c99312907a9940f56de3c2}{%
+           family={Bruns},
+           familyi={B\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Polity Press}%
+      }
+      \strng{namehash}{6875548170c99312907a9940f56de3c2}
+      \strng{fullhash}{6875548170c99312907a9940f56de3c2}
+      \strng{fullhashraw}{6875548170c99312907a9940f56de3c2}
+      \strng{bibnamehash}{6875548170c99312907a9940f56de3c2}
+      \strng{authorbibnamehash}{6875548170c99312907a9940f56de3c2}
+      \strng{authornamehash}{6875548170c99312907a9940f56de3c2}
+      \strng{authorfullhash}{6875548170c99312907a9940f56de3c2}
+      \strng{authorfullhashraw}{6875548170c99312907a9940f56de3c2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-5095-3644-3}
+      \field{series}{Digital Futures}
+      \field{title}{Are {F}ilter {B}ubbles Real?}
+      \field{year}{2019}
+    \endentry
+    \entry{Buber70}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1830f24aba045e47c5f017790831518c}{%
+           family={Buber},
+           familyi={B\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Charles Scribner's Sons}%
+      }
+      \strng{namehash}{1830f24aba045e47c5f017790831518c}
+      \strng{fullhash}{1830f24aba045e47c5f017790831518c}
+      \strng{fullhashraw}{1830f24aba045e47c5f017790831518c}
+      \strng{bibnamehash}{1830f24aba045e47c5f017790831518c}
+      \strng{authorbibnamehash}{1830f24aba045e47c5f017790831518c}
+      \strng{authornamehash}{1830f24aba045e47c5f017790831518c}
+      \strng{authorfullhash}{1830f24aba045e47c5f017790831518c}
+      \strng{authorfullhashraw}{1830f24aba045e47c5f017790831518c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Trans. by W. Kaufmann}
+      \field{title}{{I} and {T}hou}
+      \field{year}{1970}
+    \endentry
+    \entry{Carr10}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e34c4ff52dae113762a8ba08d9248b00}{%
+           family={Carr},
+           familyi={C\bibinitperiod},
+           given={Nicholas},
            giveni={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
       }
       \list{publisher}{1}{%
-        {Wiley}%
+        {W.W. Norton {\&} Company}%
       }
-      \strng{namehash}{4c57f398a86ab1994e9bd661e786e707}
-      \strng{fullhash}{4c57f398a86ab1994e9bd661e786e707}
-      \strng{fullhashraw}{4c57f398a86ab1994e9bd661e786e707}
-      \strng{bibnamehash}{4c57f398a86ab1994e9bd661e786e707}
-      \strng{authorbibnamehash}{4c57f398a86ab1994e9bd661e786e707}
-      \strng{authornamehash}{4c57f398a86ab1994e9bd661e786e707}
-      \strng{authorfullhash}{4c57f398a86ab1994e9bd661e786e707}
-      \strng{authorfullhashraw}{4c57f398a86ab1994e9bd661e786e707}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \strng{namehash}{e34c4ff52dae113762a8ba08d9248b00}
+      \strng{fullhash}{e34c4ff52dae113762a8ba08d9248b00}
+      \strng{fullhashraw}{e34c4ff52dae113762a8ba08d9248b00}
+      \strng{bibnamehash}{e34c4ff52dae113762a8ba08d9248b00}
+      \strng{authorbibnamehash}{e34c4ff52dae113762a8ba08d9248b00}
+      \strng{authornamehash}{e34c4ff52dae113762a8ba08d9248b00}
+      \strng{authorfullhash}{e34c4ff52dae113762a8ba08d9248b00}
+      \strng{authorfullhashraw}{e34c4ff52dae113762a8ba08d9248b00}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Cybernetics: {O}r Control and Communication in the Animal and the Machine}
-      \field{year}{1948}
+      \field{title}{The {S}hallows: {W}hat the {I}nternet Is Doing to Our Brains}
+      \field{year}{2010}
     \endentry
-    \entry{Turing50}{article}{}{}
+    \entry{Citton17}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=1210277649f3c7541e2750ee21da6237}{%
-           family={Turing},
-           familyi={T\bibinitperiod},
-           given={Alan\bibnamedelima M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f6cddcff7d7c2ec79e6550be1e8855ec}{%
+           family={Citton},
+           familyi={C\bibinitperiod},
+           given={Yves},
+           giveni={Y\bibinitperiod}}}%
       }
-      \strng{namehash}{1210277649f3c7541e2750ee21da6237}
-      \strng{fullhash}{1210277649f3c7541e2750ee21da6237}
-      \strng{fullhashraw}{1210277649f3c7541e2750ee21da6237}
-      \strng{bibnamehash}{1210277649f3c7541e2750ee21da6237}
-      \strng{authorbibnamehash}{1210277649f3c7541e2750ee21da6237}
-      \strng{authornamehash}{1210277649f3c7541e2750ee21da6237}
-      \strng{authorfullhash}{1210277649f3c7541e2750ee21da6237}
-      \strng{authorfullhashraw}{1210277649f3c7541e2750ee21da6237}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Polity Press}%
+      }
+      \strng{namehash}{f6cddcff7d7c2ec79e6550be1e8855ec}
+      \strng{fullhash}{f6cddcff7d7c2ec79e6550be1e8855ec}
+      \strng{fullhashraw}{f6cddcff7d7c2ec79e6550be1e8855ec}
+      \strng{bibnamehash}{f6cddcff7d7c2ec79e6550be1e8855ec}
+      \strng{authorbibnamehash}{f6cddcff7d7c2ec79e6550be1e8855ec}
+      \strng{authornamehash}{f6cddcff7d7c2ec79e6550be1e8855ec}
+      \strng{authorfullhash}{f6cddcff7d7c2ec79e6550be1e8855ec}
+      \strng{authorfullhashraw}{f6cddcff7d7c2ec79e6550be1e8855ec}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Mind}
-      \field{number}{236}
-      \field{title}{Computing Machinery and Intelligence}
-      \field{volume}{59}
-      \field{year}{1950}
-      \field{pages}{433\bibrangedash 460}
-      \range{pages}{28}
+      \field{note}{Trans. by B. Norman}
+      \field{title}{The {E}cology of {A}ttention}
+      \field{year}{2017}
+    \endentry
+    \entry{Coeckelbergh23}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=cfd4ef5d8e7e582d15ecead767493fc1}{%
+           family={Coeckelbergh},
+           familyi={C\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{fullhash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{fullhashraw}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{bibnamehash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{authorbibnamehash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{authornamehash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{authorfullhash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{authorfullhashraw}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AI and Ethics}
+      \field{title}{Democracy, epistemic agency, and {AI}: political epistemology in times of artificial intelligence}
+      \field{volume}{3}
+      \field{year}{2023}
+      \field{pages}{1341\bibrangedash 1350}
+      \range{pages}{10}
       \verb{doi}
-      \verb 10.1093/mind/LIX.236.433
+      \verb 10.1007/s43681-022-00239-4
       \endverb
+    \endentry
+    \entry{Coeckelbergh26}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=cfd4ef5d8e7e582d15ecead767493fc1}{%
+           family={Coeckelbergh},
+           familyi={C\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{fullhash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{fullhashraw}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{bibnamehash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{authorbibnamehash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{authornamehash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{authorfullhash}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \strng{authorfullhashraw}{cfd4ef5d8e7e582d15ecead767493fc1}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AI {\&} Society}
+      \field{title}{Technofascism: {AI}, {B}ig {T}ech, and the New Authoritarianism}
+      \field{volume}{41}
+      \field{year}{2026}
+      \field{pages}{5163\bibrangedash 5176}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s00146-026-02862-9
+      \endverb
+    \endentry
+    \entry{Dean09}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b6b7d2086d38b6c2d50eba34ee2b1c63}{%
+           family={Dean},
+           familyi={D\bibinitperiod},
+           given={Jodi},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Durham}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
+      \strng{fullhash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
+      \strng{fullhashraw}{b6b7d2086d38b6c2d50eba34ee2b1c63}
+      \strng{bibnamehash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
+      \strng{authorbibnamehash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
+      \strng{authornamehash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
+      \strng{authorfullhash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
+      \strng{authorfullhashraw}{b6b7d2086d38b6c2d50eba34ee2b1c63}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Democracy and Other Neoliberal Fantasies: {C}ommunicative Capitalism and Left Politics}
+      \field{year}{2009}
+    \endentry
+    \entry{Deleuze92}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=01e8c4f353d8f2d65f9f05ee78f50c8c}{%
+           family={Deleuze},
+           familyi={D\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
+      \strng{fullhash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
+      \strng{fullhashraw}{01e8c4f353d8f2d65f9f05ee78f50c8c}
+      \strng{bibnamehash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
+      \strng{authorbibnamehash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
+      \strng{authornamehash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
+      \strng{authorfullhash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
+      \strng{authorfullhashraw}{01e8c4f353d8f2d65f9f05ee78f50c8c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{October}
+      \field{title}{Postscript on the Societies of Control}
+      \field{volume}{59}
+      \field{year}{1992}
+      \field{pages}{3\bibrangedash 7}
+      \range{pages}{5}
     \endentry
     \entry{Dreyfus92}{book}{}{}
       \name{author}{1}{}{%
@@ -101,217 +484,71 @@
       \strng{authornamehash}{e59386cfa3273b049f85d5e655743b2b}
       \strng{authorfullhash}{e59386cfa3273b049f85d5e655743b2b}
       \strng{authorfullhashraw}{e59386cfa3273b049f85d5e655743b2b}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{What Computers Still {C}an't {D}o: {A} Critique of Artificial Reason}
       \field{year}{1992}
     \endentry
-    \entry{Searle80}{article}{}{}
+    \entry{Ellul64}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=932676a29fb955b21e5599a8c1c5e6ca}{%
-           family={Searle},
-           familyi={S\bibinitperiod},
-           given={John\bibnamedelima R.},
-           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \strng{namehash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{fullhash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{fullhashraw}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{bibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{authorbibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{authornamehash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{authorfullhash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{authorfullhashraw}{932676a29fb955b21e5599a8c1c5e6ca}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Behavioral and Brain Sciences}
-      \field{number}{3}
-      \field{title}{Minds, {B}rains and {P}rograms}
-      \field{volume}{3}
-      \field{year}{1980}
-      \field{pages}{417\bibrangedash 457}
-      \range{pages}{41}
-      \verb{doi}
-      \verb 10.1017/S0140525X00005756
-      \endverb
-    \endentry
-    \entry{Floridi23}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=0d57a43cc17e895c38b6d1656af4ece5}{%
-           family={Floridi},
-           familyi={F\bibinitperiod},
-           given={Luciano},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Oxford}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{0d57a43cc17e895c38b6d1656af4ece5}
-      \strng{fullhash}{0d57a43cc17e895c38b6d1656af4ece5}
-      \strng{fullhashraw}{0d57a43cc17e895c38b6d1656af4ece5}
-      \strng{bibnamehash}{0d57a43cc17e895c38b6d1656af4ece5}
-      \strng{authorbibnamehash}{0d57a43cc17e895c38b6d1656af4ece5}
-      \strng{authornamehash}{0d57a43cc17e895c38b6d1656af4ece5}
-      \strng{authorfullhash}{0d57a43cc17e895c38b6d1656af4ece5}
-      \strng{authorfullhashraw}{0d57a43cc17e895c38b6d1656af4ece5}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The {E}thics of {A}rtificial {I}ntelligence: {P}rinciples, {C}hallenges, and {O}pportunities}
-      \field{year}{2023}
-    \endentry
-    \entry{OlofOrsSmit25}{misc}{}{}
-      \name{author}{2}{}{%
-        {{hash=f68e802f7202f4765982da11f9a766d6}{%
-           family={Olof-Ors},
-           familyi={O\bibinithyphendelim O\bibinitperiod},
-           given={Adele},
-           giveni={A\bibinitperiod}}}%
-        {{hash=ddbe24fee2ca7a1c690abdfba7296662}{%
-           family={Smit},
-           familyi={S\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
-      \strng{fullhash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
-      \strng{fullhashraw}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
-      \strng{bibnamehash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
-      \strng{authorbibnamehash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
-      \strng{authornamehash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
-      \strng{authorfullhash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
-      \strng{authorfullhashraw}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{arXiv:2511.06472v1 [cs.CY]}
-      \field{title}{Simulated Affection, Engineered Trust: {H}ow Anthropomorphic {AI} Benefits Surveillance Capitalism}
-      \field{year}{2025}
-    \endentry
-    \entry{Deleuze92}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=01e8c4f353d8f2d65f9f05ee78f50c8c}{%
-           family={Deleuze},
-           familyi={D\bibinitperiod},
-           given={Gilles},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
-      \strng{fullhash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
-      \strng{fullhashraw}{01e8c4f353d8f2d65f9f05ee78f50c8c}
-      \strng{bibnamehash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
-      \strng{authorbibnamehash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
-      \strng{authornamehash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
-      \strng{authorfullhash}{01e8c4f353d8f2d65f9f05ee78f50c8c}
-      \strng{authorfullhashraw}{01e8c4f353d8f2d65f9f05ee78f50c8c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{October}
-      \field{title}{Postscript on the Societies of Control}
-      \field{volume}{59}
-      \field{year}{1992}
-      \field{pages}{3\bibrangedash 7}
-      \range{pages}{5}
-    \endentry
-    \entry{Foucault77}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=984e5967448051538555a64aac11ed21}{%
-           family={Foucault},
-           familyi={F\bibinitperiod},
-           given={Michel},
-           giveni={M\bibinitperiod}}}%
+        {{hash=24c3bb0c6f4fafd55082fc2bef2084ce}{%
+           family={Ellul},
+           familyi={E\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
       }
       \list{publisher}{1}{%
-        {Pantheon Books}%
+        {Vintage Books}%
       }
-      \strng{namehash}{984e5967448051538555a64aac11ed21}
-      \strng{fullhash}{984e5967448051538555a64aac11ed21}
-      \strng{fullhashraw}{984e5967448051538555a64aac11ed21}
-      \strng{bibnamehash}{984e5967448051538555a64aac11ed21}
-      \strng{authorbibnamehash}{984e5967448051538555a64aac11ed21}
-      \strng{authornamehash}{984e5967448051538555a64aac11ed21}
-      \strng{authorfullhash}{984e5967448051538555a64aac11ed21}
-      \strng{authorfullhashraw}{984e5967448051538555a64aac11ed21}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \strng{namehash}{24c3bb0c6f4fafd55082fc2bef2084ce}
+      \strng{fullhash}{24c3bb0c6f4fafd55082fc2bef2084ce}
+      \strng{fullhashraw}{24c3bb0c6f4fafd55082fc2bef2084ce}
+      \strng{bibnamehash}{24c3bb0c6f4fafd55082fc2bef2084ce}
+      \strng{authorbibnamehash}{24c3bb0c6f4fafd55082fc2bef2084ce}
+      \strng{authornamehash}{24c3bb0c6f4fafd55082fc2bef2084ce}
+      \strng{authorfullhash}{24c3bb0c6f4fafd55082fc2bef2084ce}
+      \strng{authorfullhashraw}{24c3bb0c6f4fafd55082fc2bef2084ce}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Trans. by A. Sheridan}
-      \field{title}{Discipline and Punish: {T}he Birth of the Prison}
-      \field{year}{1977}
+      \field{note}{Trans. by J. Wilkinson}
+      \field{title}{The {T}echnological {S}ociety}
+      \field{year}{1964}
     \endentry
-    \entry{SauraGarcia24}{article}{}{}
+    \entry{Eubanks18}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=e0b7247e00570dc033a42e2cd810ac03}{%
-           family={Saura\bibnamedelima García},
-           familyi={S\bibinitperiod\bibinitdelim G\bibinitperiod},
-           given={Carlos},
-           giveni={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{e0b7247e00570dc033a42e2cd810ac03}
-      \strng{fullhash}{e0b7247e00570dc033a42e2cd810ac03}
-      \strng{fullhashraw}{e0b7247e00570dc033a42e2cd810ac03}
-      \strng{bibnamehash}{e0b7247e00570dc033a42e2cd810ac03}
-      \strng{authorbibnamehash}{e0b7247e00570dc033a42e2cd810ac03}
-      \strng{authornamehash}{e0b7247e00570dc033a42e2cd810ac03}
-      \strng{authorfullhash}{e0b7247e00570dc033a42e2cd810ac03}
-      \strng{authorfullhashraw}{e0b7247e00570dc033a42e2cd810ac03}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Philosophy {\&} Technology}
-      \field{title}{Datafeudalism: {T}he Domination of Modern Societies by Big Tech Companies}
-      \field{volume}{37}
-      \field{year}{2024}
-      \field{pages}{90}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1007/s13347-024-00777-1
-      \endverb
-    \endentry
-    \entry{Winner86}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=5b728fa2bac53879d4d099d1a35ca210}{%
-           family={Winner},
-           familyi={W\bibinitperiod},
-           given={Langdon},
-           giveni={L\bibinitperiod}}}%
+        {{hash=0020f5730e493356866f176531317b68}{%
+           family={Eubanks},
+           familyi={E\bibinitperiod},
+           given={Virginia},
+           giveni={V\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Chicago}%
+        {New York}%
       }
       \list{publisher}{1}{%
-        {University of Chicago Press}%
+        {St. Martin's Press}%
       }
-      \strng{namehash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{fullhash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{fullhashraw}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{bibnamehash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{authorbibnamehash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{authornamehash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{authorfullhash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{authorfullhashraw}{5b728fa2bac53879d4d099d1a35ca210}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \strng{namehash}{0020f5730e493356866f176531317b68}
+      \strng{fullhash}{0020f5730e493356866f176531317b68}
+      \strng{fullhashraw}{0020f5730e493356866f176531317b68}
+      \strng{bibnamehash}{0020f5730e493356866f176531317b68}
+      \strng{authorbibnamehash}{0020f5730e493356866f176531317b68}
+      \strng{authornamehash}{0020f5730e493356866f176531317b68}
+      \strng{authorfullhash}{0020f5730e493356866f176531317b68}
+      \strng{authorfullhashraw}{0020f5730e493356866f176531317b68}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The Whale and the Reactor: {A} Search for Limits in an Age of High Technology}
-      \field{year}{1986}
+      \field{title}{Automating Inequality: {H}ow High-Tech Tools Profile, Police, and Punish the Poor}
+      \field{year}{2018}
     \endentry
     \entry{Feenberg02}{book}{}{}
       \name{author}{1}{}{%
@@ -335,110 +572,306 @@
       \strng{authornamehash}{135b81e29d9c14bb1865e1c78949d5cf}
       \strng{authorfullhash}{135b81e29d9c14bb1865e1c78949d5cf}
       \strng{authorfullhashraw}{135b81e29d9c14bb1865e1c78949d5cf}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Transforming Technology: {A} Critical Theory Revisited}
       \field{year}{2002}
     \endentry
-    \entry{AkbariWood25}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=3ce9b48f5c013e41888c5d0971dd8f71}{%
-           family={Akbari},
-           familyi={A\bibinitperiod},
-           given={Azadeh},
-           giveni={A\bibinitperiod}}}%
-        {{hash=b62efd7f532e846ba84da804118125a2}{%
-           family={Wood},
-           familyi={W\bibinitperiod},
-           given={David\bibnamedelima Murakami},
-           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \strng{namehash}{6f97505af1644d95e0b98f2a691b441f}
-      \strng{fullhash}{6f97505af1644d95e0b98f2a691b441f}
-      \strng{fullhashraw}{6f97505af1644d95e0b98f2a691b441f}
-      \strng{bibnamehash}{6f97505af1644d95e0b98f2a691b441f}
-      \strng{authorbibnamehash}{6f97505af1644d95e0b98f2a691b441f}
-      \strng{authornamehash}{6f97505af1644d95e0b98f2a691b441f}
-      \strng{authorfullhash}{6f97505af1644d95e0b98f2a691b441f}
-      \strng{authorfullhashraw}{6f97505af1644d95e0b98f2a691b441f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Surveillance {\&} Society}
-      \field{number}{1}
-      \field{title}{Towards a Critical Political Economy of Surveillance and Digital Authoritarianism}
-      \field{volume}{23}
-      \field{year}{2025}
-      \field{pages}{152\bibrangedash 158}
-      \range{pages}{7}
-      \verb{urlraw}
-      \verb https://ojs.library.queensu.ca/index.php/surveillance-and-society/index
-      \endverb
-      \verb{url}
-      \verb https://ojs.library.queensu.ca/index.php/surveillance-and-society/index
-      \endverb
-    \endentry
-    \entry{Agamben05}{book}{}{}
+    \entry{Floridi23}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=8c74b403c34f5bada1d8b1bd87b56556}{%
-           family={Agamben},
-           familyi={A\bibinitperiod},
-           given={Giorgio},
-           giveni={G\bibinitperiod}}}%
+        {{hash=0d57a43cc17e895c38b6d1656af4ece5}{%
+           family={Floridi},
+           familyi={F\bibinitperiod},
+           given={Luciano},
+           giveni={L\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Chicago}%
+        {Oxford}%
       }
       \list{publisher}{1}{%
-        {University of Chicago Press}%
+        {Oxford University Press}%
       }
-      \strng{namehash}{8c74b403c34f5bada1d8b1bd87b56556}
-      \strng{fullhash}{8c74b403c34f5bada1d8b1bd87b56556}
-      \strng{fullhashraw}{8c74b403c34f5bada1d8b1bd87b56556}
-      \strng{bibnamehash}{8c74b403c34f5bada1d8b1bd87b56556}
-      \strng{authorbibnamehash}{8c74b403c34f5bada1d8b1bd87b56556}
-      \strng{authornamehash}{8c74b403c34f5bada1d8b1bd87b56556}
-      \strng{authorfullhash}{8c74b403c34f5bada1d8b1bd87b56556}
-      \strng{authorfullhashraw}{8c74b403c34f5bada1d8b1bd87b56556}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \strng{namehash}{0d57a43cc17e895c38b6d1656af4ece5}
+      \strng{fullhash}{0d57a43cc17e895c38b6d1656af4ece5}
+      \strng{fullhashraw}{0d57a43cc17e895c38b6d1656af4ece5}
+      \strng{bibnamehash}{0d57a43cc17e895c38b6d1656af4ece5}
+      \strng{authorbibnamehash}{0d57a43cc17e895c38b6d1656af4ece5}
+      \strng{authornamehash}{0d57a43cc17e895c38b6d1656af4ece5}
+      \strng{authorfullhash}{0d57a43cc17e895c38b6d1656af4ece5}
+      \strng{authorfullhashraw}{0d57a43cc17e895c38b6d1656af4ece5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Trans. by K. Attell}
-      \field{title}{State of {E}xception}
-      \field{year}{2005}
+      \field{title}{The {E}thics of {A}rtificial {I}ntelligence: {P}rinciples, {C}hallenges, and {O}pportunities}
+      \field{year}{2023}
     \endentry
-    \entry{Zuboff19}{book}{}{}
+    \entry{Foucault77}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=19b83c33a232c9892502d941e4cfcf56}{%
-           family={Zuboff},
-           familyi={Z\bibinitperiod},
-           given={Shoshana},
-           giveni={S\bibinitperiod}}}%
+        {{hash=984e5967448051538555a64aac11ed21}{%
+           family={Foucault},
+           familyi={F\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
       }
       \list{publisher}{1}{%
-        {PublicAffairs}%
+        {Pantheon Books}%
       }
-      \strng{namehash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{fullhash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{fullhashraw}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{bibnamehash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{authorbibnamehash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{authornamehash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{authorfullhash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{authorfullhashraw}{19b83c33a232c9892502d941e4cfcf56}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \strng{namehash}{984e5967448051538555a64aac11ed21}
+      \strng{fullhash}{984e5967448051538555a64aac11ed21}
+      \strng{fullhashraw}{984e5967448051538555a64aac11ed21}
+      \strng{bibnamehash}{984e5967448051538555a64aac11ed21}
+      \strng{authorbibnamehash}{984e5967448051538555a64aac11ed21}
+      \strng{authornamehash}{984e5967448051538555a64aac11ed21}
+      \strng{authorfullhash}{984e5967448051538555a64aac11ed21}
+      \strng{authorfullhashraw}{984e5967448051538555a64aac11ed21}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The {A}ge of {S}urveillance {C}apitalism: {T}he Fight for a Human Future at the New Frontier of Power}
-      \field{year}{2019}
+      \field{note}{Trans. by A. Sheridan}
+      \field{title}{Discipline and Punish: {T}he Birth of the Prison}
+      \field{year}{1977}
+    \endentry
+    \entry{GonzalezDeLaTorre24}{misc}{}{}
+      \name{author}{3}{}{%
+        {{hash=b41941fb4009c169533be6a829ded9ee}{%
+           family={González\bibnamedelimb de\bibnamedelimb la\bibnamedelima Torre},
+           familyi={G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d70bad4ab77ab82b728aa3193e858e4e}{%
+           family={Pérez-Verdugo},
+           familyi={P\bibinithyphendelim V\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2b0c3b682d2e5d88b300b706ac0de55d}{%
+           family={Barandiaran},
+           familyi={B\bibinitperiod},
+           given={Xabier\bibnamedelima E.},
+           giveni={X\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1830ec69e6865945a7a361d8653f9c5}
+      \strng{fullhash}{675ae33aa8ae549d650e334ad588afa4}
+      \strng{fullhashraw}{675ae33aa8ae549d650e334ad588afa4}
+      \strng{bibnamehash}{675ae33aa8ae549d650e334ad588afa4}
+      \strng{authorbibnamehash}{675ae33aa8ae549d650e334ad588afa4}
+      \strng{authornamehash}{e1830ec69e6865945a7a361d8653f9c5}
+      \strng{authorfullhash}{675ae33aa8ae549d650e334ad588afa4}
+      \strng{authorfullhashraw}{675ae33aa8ae549d650e334ad588afa4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{arXiv:2405.06478v1}
+      \field{title}{Attention is all they need: {C}ognitive science and the (techno)political economy of attention in humans and machines}
+      \field{year}{2024}
+    \endentry
+    \entry{Guess23}{article}{}{}
+      \name{author}{29}{}{%
+        {{hash=2a3869d9c500e80af26ac375bb28ded2}{%
+           family={Guess},
+           familyi={G\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=66995b1ee248fbefd269529532d1abe5}{%
+           family={Malhotra},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=2594ce3e567ef750dba39f69b3ced277}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1758712d115799f565778c557042b413}{%
+           family={Barberá},
+           familyi={B\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cc99b38ced482f8ce08a3d71368c14d4}{%
+           family={Allcott},
+           familyi={A\bibinitperiod},
+           given={Hunt},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c9c203062d55e5830ddd82bb7a9787fc}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Taylor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0c4530f56bd7ac11058276991b6953ad}{%
+           family={Crespo-Tenorio},
+           familyi={C\bibinithyphendelim T\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=55048f8ba6d2a3df0ba5666eb1effa36}{%
+           family={Dimmery},
+           familyi={D\bibinitperiod},
+           given={Drew},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a555fe9959df9c18bdcbba5148f882a2}{%
+           family={Freelon},
+           familyi={F\bibinitperiod},
+           given={Deen},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7f632dc67b8bd2566eae625ec44fafd0}{%
+           family={Gentzkow},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5fee9bb807e44ff9ebe20f4b0cb54753}{%
+           family={González-Bailón},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7c99e8e19034dc88cc030b26421e4aa8}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3b8d0aebfbe2a89963c1be5ba893981d}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Young\bibnamedelima Mie},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b997d645b4a929780c2c78606bf2ff98}{%
+           family={Lazer},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3d70bb0ac0ffe9c63008ce70e334afba}{%
+           family={Moehler},
+           familyi={M\bibinitperiod},
+           given={Devra},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8ef5bca6f403168706ad93d11351ed60}{%
+           family={Nyhan},
+           familyi={N\bibinitperiod},
+           given={Brendan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=abe393186b68af9654347ab6e0722b55}{%
+           family={Rivera},
+           familyi={R\bibinitperiod},
+           given={Carlos\bibnamedelima Velasco},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=229e5f46a83cdd64ab6a9e450f7ace31}{%
+           family={Settle},
+           familyi={S\bibinitperiod},
+           given={Jaime},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c492852f730fdfc3b0e014a92c64d5d1}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Daniel\bibnamedelima Robert},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=bc3042a1dcbebcd3ec7914cbc7b93ac2}{%
+           family={Thorson},
+           familyi={T\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f53a148920b3a059250fadd7f20c5f46}{%
+           family={Tromble},
+           familyi={T\bibinitperiod},
+           given={Rebekah},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1e6439db4e3afd239fd9d93b57fb5262}{%
+           family={Wilkins},
+           familyi={W\bibinitperiod},
+           given={Arjun},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e1a07b724ef7d12622281832a5bdad41}{%
+           family={Wojcieszak},
+           familyi={W\bibinitperiod},
+           given={Magdalena},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4bf7ac45705c2fe3391901bed7a77a0d}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Beixian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=55096939a2c8b1d226f4c03c4660967f}{%
+           family={{Kiewiet de Jonge}},
+           familyi={K\bibinitperiod},
+           given={Chad},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7db8b1027b55d4c2c8dc5778a254cd8b}{%
+           family={Franco},
+           familyi={F\bibinitperiod},
+           given={Annie},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b3cb145569674742679c427cd1d3a349}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Winter},
+           giveni={W\bibinitperiod}}}%
+        {{hash=dd787f921edd5126c354c4129bdaccff}{%
+           family={Stroud},
+           familyi={S\bibinitperiod},
+           given={Natalie\bibnamedelima Jomini},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4f53cfe3add6fe77182af81aa7aeff73}{%
+           family={Tucker},
+           familyi={T\bibinitperiod},
+           given={Joshua\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c0c9149abb43347abfb997d5a87851b}
+      \strng{fullhash}{5172ab3dc9eeeed74452579d8c9cea05}
+      \strng{fullhashraw}{5172ab3dc9eeeed74452579d8c9cea05}
+      \strng{bibnamehash}{5172ab3dc9eeeed74452579d8c9cea05}
+      \strng{authorbibnamehash}{5172ab3dc9eeeed74452579d8c9cea05}
+      \strng{authornamehash}{1c0c9149abb43347abfb997d5a87851b}
+      \strng{authorfullhash}{5172ab3dc9eeeed74452579d8c9cea05}
+      \strng{authorfullhashraw}{5172ab3dc9eeeed74452579d8c9cea05}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{6656}
+      \field{title}{How do social media feed algorithms affect attitudes and behavior in an election campaign?}
+      \field{volume}{381}
+      \field{year}{2023}
+      \field{pages}{398\bibrangedash 404}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1126/science.abp9364
+      \endverb
+    \endentry
+    \entry{Habermas89}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=943e85133c1745da2030bbddf9a8b1f6}{%
+           family={Habermas},
+           familyi={H\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{fullhash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{fullhashraw}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{bibnamehash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{authorbibnamehash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{authornamehash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{authorfullhash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{authorfullhashraw}{943e85133c1745da2030bbddf9a8b1f6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Trans. by T. Burger}
+      \field{title}{The Structural Transformation of the Public Sphere: {A}n Inquiry into a Category of Bourgeois Society}
+      \field{year}{1989}
     \endentry
     \entry{JanssenKuk16}{article}{}{}
       \name{author}{2}{}{%
@@ -461,8 +894,8 @@
       \strng{authornamehash}{5ff4ebb1469d83e4f5b63754d3dd7e48}
       \strng{authorfullhash}{5ff4ebb1469d83e4f5b63754d3dd7e48}
       \strng{authorfullhashraw}{5ff4ebb1469d83e4f5b63754d3dd7e48}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Government Information Quarterly}
@@ -475,6 +908,65 @@
       \verb{doi}
       \verb 10.1016/j.giq.2016.08.011
       \endverb
+    \endentry
+    \entry{Jonas84}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=599fe7d07ff31b8e0864ac923b1068c5}{%
+           family={Jonas},
+           familyi={J\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{599fe7d07ff31b8e0864ac923b1068c5}
+      \strng{fullhash}{599fe7d07ff31b8e0864ac923b1068c5}
+      \strng{fullhashraw}{599fe7d07ff31b8e0864ac923b1068c5}
+      \strng{bibnamehash}{599fe7d07ff31b8e0864ac923b1068c5}
+      \strng{authorbibnamehash}{599fe7d07ff31b8e0864ac923b1068c5}
+      \strng{authornamehash}{599fe7d07ff31b8e0864ac923b1068c5}
+      \strng{authorfullhash}{599fe7d07ff31b8e0864ac923b1068c5}
+      \strng{authorfullhashraw}{599fe7d07ff31b8e0864ac923b1068c5}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Imperative of Responsibility: {I}n Search of an Ethics for the Technological Age}
+      \field{year}{1984}
+    \endentry
+    \entry{Kahneman11}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{2}{%
+        {Farrar, Straus}%
+        {Giroux}%
+      }
+      \strng{namehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{fullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{fullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{bibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorbibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authornamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorfullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorfullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thinking, Fast and Slow}
+      \field{year}{2011}
     \endentry
     \entry{Kitchin14}{article}{}{}
       \name{author}{1}{}{%
@@ -492,8 +984,8 @@
       \strng{authornamehash}{0a6733829fcc127126b10855df06ec2d}
       \strng{authorfullhash}{0a6733829fcc127126b10855df06ec2d}
       \strng{authorfullhashraw}{0a6733829fcc127126b10855df06ec2d}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{GeoJournal}
@@ -528,8 +1020,8 @@
       \strng{authornamehash}{5ede68be7694ba4ffb3a8eae001648f2}
       \strng{authorfullhash}{5ede68be7694ba4ffb3a8eae001648f2}
       \strng{authorfullhashraw}{5ede68be7694ba4ffb3a8eae001648f2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Government Information Quarterly}
@@ -543,63 +1035,92 @@
       \verb 10.1016/j.giq.2020.101489
       \endverb
     \endentry
-    \entry{Coeckelbergh23}{article}{}{}
+    \entry{Levinas69}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=cfd4ef5d8e7e582d15ecead767493fc1}{%
-           family={Coeckelbergh},
-           familyi={C\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{cfd4ef5d8e7e582d15ecead767493fc1}
-      \strng{fullhash}{cfd4ef5d8e7e582d15ecead767493fc1}
-      \strng{fullhashraw}{cfd4ef5d8e7e582d15ecead767493fc1}
-      \strng{bibnamehash}{cfd4ef5d8e7e582d15ecead767493fc1}
-      \strng{authorbibnamehash}{cfd4ef5d8e7e582d15ecead767493fc1}
-      \strng{authornamehash}{cfd4ef5d8e7e582d15ecead767493fc1}
-      \strng{authorfullhash}{cfd4ef5d8e7e582d15ecead767493fc1}
-      \strng{authorfullhashraw}{cfd4ef5d8e7e582d15ecead767493fc1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{AI and Ethics}
-      \field{title}{Democracy, epistemic agency, and {AI}: political epistemology in times of artificial intelligence}
-      \field{volume}{3}
-      \field{year}{2023}
-      \field{pages}{1341\bibrangedash 1350}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1007/s43681-022-00239-4
-      \endverb
-    \endentry
-    \entry{Williams18}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=d35ab5c48a065b4b45112f8788b17995}{%
-           family={Williams},
-           familyi={W\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
+        {{hash=a8d36406126d3d36c4e074b1733cbac8}{%
+           family={Levinas},
+           familyi={L\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Cambridge}%
+        {Pittsburgh}%
       }
       \list{publisher}{1}{%
-        {Cambridge University Press}%
+        {Duquesne University Press}%
       }
-      \strng{namehash}{d35ab5c48a065b4b45112f8788b17995}
-      \strng{fullhash}{d35ab5c48a065b4b45112f8788b17995}
-      \strng{fullhashraw}{d35ab5c48a065b4b45112f8788b17995}
-      \strng{bibnamehash}{d35ab5c48a065b4b45112f8788b17995}
-      \strng{authorbibnamehash}{d35ab5c48a065b4b45112f8788b17995}
-      \strng{authornamehash}{d35ab5c48a065b4b45112f8788b17995}
-      \strng{authorfullhash}{d35ab5c48a065b4b45112f8788b17995}
-      \strng{authorfullhashraw}{d35ab5c48a065b4b45112f8788b17995}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \strng{namehash}{a8d36406126d3d36c4e074b1733cbac8}
+      \strng{fullhash}{a8d36406126d3d36c4e074b1733cbac8}
+      \strng{fullhashraw}{a8d36406126d3d36c4e074b1733cbac8}
+      \strng{bibnamehash}{a8d36406126d3d36c4e074b1733cbac8}
+      \strng{authorbibnamehash}{a8d36406126d3d36c4e074b1733cbac8}
+      \strng{authornamehash}{a8d36406126d3d36c4e074b1733cbac8}
+      \strng{authorfullhash}{a8d36406126d3d36c4e074b1733cbac8}
+      \strng{authorfullhashraw}{a8d36406126d3d36c4e074b1733cbac8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Stand Out of Our Light: {F}reedom and Resistance in the Attention Economy}
+      \field{note}{Trans. by A. Lingis}
+      \field{title}{Totality and Infinity: {A}n Essay on Exteriority}
+      \field{year}{1969}
+    \endentry
+    \entry{McQuillan22}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=073efaf80a8e361fa3066607b3af0da9}{%
+           family={McQuillan},
+           familyi={M\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bristol}%
+      }
+      \list{publisher}{1}{%
+        {Bristol University Press}%
+      }
+      \strng{namehash}{073efaf80a8e361fa3066607b3af0da9}
+      \strng{fullhash}{073efaf80a8e361fa3066607b3af0da9}
+      \strng{fullhashraw}{073efaf80a8e361fa3066607b3af0da9}
+      \strng{bibnamehash}{073efaf80a8e361fa3066607b3af0da9}
+      \strng{authorbibnamehash}{073efaf80a8e361fa3066607b3af0da9}
+      \strng{authornamehash}{073efaf80a8e361fa3066607b3af0da9}
+      \strng{authorfullhash}{073efaf80a8e361fa3066607b3af0da9}
+      \strng{authorfullhashraw}{073efaf80a8e361fa3066607b3af0da9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Resisting {AI}: {A}n Anti-fascist Approach to Artificial Intelligence}
+      \field{year}{2022}
+    \endentry
+    \entry{Noble18}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b326975be184a4cd21504cbf1607501d}{%
+           family={Noble},
+           familyi={N\bibinitperiod},
+           given={Safiya\bibnamedelima Umoja},
+           giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {NYU Press}%
+      }
+      \strng{namehash}{b326975be184a4cd21504cbf1607501d}
+      \strng{fullhash}{b326975be184a4cd21504cbf1607501d}
+      \strng{fullhashraw}{b326975be184a4cd21504cbf1607501d}
+      \strng{bibnamehash}{b326975be184a4cd21504cbf1607501d}
+      \strng{authorbibnamehash}{b326975be184a4cd21504cbf1607501d}
+      \strng{authornamehash}{b326975be184a4cd21504cbf1607501d}
+      \strng{authorfullhash}{b326975be184a4cd21504cbf1607501d}
+      \strng{authorfullhashraw}{b326975be184a4cd21504cbf1607501d}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Algorithms of Oppression: {H}ow Search Engines Reinforce Racism}
       \field{year}{2018}
     \endentry
     \entry{ONeil16}{book}{}{}
@@ -624,99 +1145,76 @@
       \strng{authornamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
       \strng{authorfullhash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
       \strng{authorfullhashraw}{2d9e8c54407ca5f4ae5ce79112bcffdf}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Weapons of Math Destruction: {H}ow Big Data Increases Inequality and Threatens Democracy}
       \field{year}{2016}
     \endentry
-    \entry{Noble18}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=b326975be184a4cd21504cbf1607501d}{%
-           family={Noble},
-           familyi={N\bibinitperiod},
-           given={Safiya\bibnamedelima Umoja},
-           giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+    \entry{OlofOrsSmit25}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=f68e802f7202f4765982da11f9a766d6}{%
+           family={Olof-Ors},
+           familyi={O\bibinithyphendelim O\bibinitperiod},
+           given={Adele},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ddbe24fee2ca7a1c690abdfba7296662}{%
+           family={Smit},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {NYU Press}%
-      }
-      \strng{namehash}{b326975be184a4cd21504cbf1607501d}
-      \strng{fullhash}{b326975be184a4cd21504cbf1607501d}
-      \strng{fullhashraw}{b326975be184a4cd21504cbf1607501d}
-      \strng{bibnamehash}{b326975be184a4cd21504cbf1607501d}
-      \strng{authorbibnamehash}{b326975be184a4cd21504cbf1607501d}
-      \strng{authornamehash}{b326975be184a4cd21504cbf1607501d}
-      \strng{authorfullhash}{b326975be184a4cd21504cbf1607501d}
-      \strng{authorfullhashraw}{b326975be184a4cd21504cbf1607501d}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \strng{namehash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
+      \strng{fullhash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
+      \strng{fullhashraw}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
+      \strng{bibnamehash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
+      \strng{authorbibnamehash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
+      \strng{authornamehash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
+      \strng{authorfullhash}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
+      \strng{authorfullhashraw}{f25e6b77a6e07c2241e1f6a9a6cd2a17}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Algorithms of Oppression: {H}ow Search Engines Reinforce Racism}
-      \field{year}{2018}
+      \field{howpublished}{arXiv:2511.06472v1 [cs.CY]}
+      \field{title}{Simulated Affection, Engineered Trust: {H}ow Anthropomorphic {AI} Benefits Surveillance Capitalism}
+      \field{year}{2025}
     \endentry
-    \entry{Eubanks18}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=0020f5730e493356866f176531317b68}{%
-           family={Eubanks},
-           familyi={E\bibinitperiod},
-           given={Virginia},
-           giveni={V\bibinitperiod}}}%
+    \entry{OrbenPrzybylski19}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=b6fff1711590020cb2477a7597aef651}{%
+           family={Orben},
+           familyi={O\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e1514786a115ec4cf5fdb4d9238930b9}{%
+           family={Przybylski},
+           familyi={P\bibinitperiod},
+           given={Andrew\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {St. Martin's Press}%
-      }
-      \strng{namehash}{0020f5730e493356866f176531317b68}
-      \strng{fullhash}{0020f5730e493356866f176531317b68}
-      \strng{fullhashraw}{0020f5730e493356866f176531317b68}
-      \strng{bibnamehash}{0020f5730e493356866f176531317b68}
-      \strng{authorbibnamehash}{0020f5730e493356866f176531317b68}
-      \strng{authornamehash}{0020f5730e493356866f176531317b68}
-      \strng{authorfullhash}{0020f5730e493356866f176531317b68}
-      \strng{authorfullhashraw}{0020f5730e493356866f176531317b68}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \strng{namehash}{c950d11fcc56d08403fa53ad4ddb7e53}
+      \strng{fullhash}{c950d11fcc56d08403fa53ad4ddb7e53}
+      \strng{fullhashraw}{c950d11fcc56d08403fa53ad4ddb7e53}
+      \strng{bibnamehash}{c950d11fcc56d08403fa53ad4ddb7e53}
+      \strng{authorbibnamehash}{c950d11fcc56d08403fa53ad4ddb7e53}
+      \strng{authornamehash}{c950d11fcc56d08403fa53ad4ddb7e53}
+      \strng{authorfullhash}{c950d11fcc56d08403fa53ad4ddb7e53}
+      \strng{authorfullhashraw}{c950d11fcc56d08403fa53ad4ddb7e53}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Automating Inequality: {H}ow High-Tech Tools Profile, Police, and Punish the Poor}
-      \field{year}{2018}
-    \endentry
-    \entry{Benjamin19}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=e637ce247950d32eb83386e749ae10e3}{%
-           family={Benjamin},
-           familyi={B\bibinitperiod},
-           given={Ruha},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cambridge}%
-      }
-      \list{publisher}{1}{%
-        {Polity Press}%
-      }
-      \strng{namehash}{e637ce247950d32eb83386e749ae10e3}
-      \strng{fullhash}{e637ce247950d32eb83386e749ae10e3}
-      \strng{fullhashraw}{e637ce247950d32eb83386e749ae10e3}
-      \strng{bibnamehash}{e637ce247950d32eb83386e749ae10e3}
-      \strng{authorbibnamehash}{e637ce247950d32eb83386e749ae10e3}
-      \strng{authornamehash}{e637ce247950d32eb83386e749ae10e3}
-      \strng{authorfullhash}{e637ce247950d32eb83386e749ae10e3}
-      \strng{authorfullhashraw}{e637ce247950d32eb83386e749ae10e3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Race After Technology: {A}bolitionist Tools for the New Jim Code}
+      \field{journaltitle}{Nature Human Behaviour}
+      \field{title}{The association between adolescent well-being and digital technology use}
+      \field{volume}{3}
       \field{year}{2019}
+      \field{pages}{173\bibrangedash 182}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1038/s41562-018-0506-1
+      \endverb
     \endentry
     \entry{Peters22}{article}{}{}
       \name{author}{1}{}{%
@@ -734,8 +1232,8 @@
       \strng{authornamehash}{51e11955af44019e13b6d9d45c647e5a}
       \strng{authorfullhash}{51e11955af44019e13b6d9d45c647e5a}
       \strng{authorfullhashraw}{51e11955af44019e13b6d9d45c647e5a}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophy and Technology}
@@ -748,35 +1246,288 @@
       \verb 10.1007/s13347-022-00512-8
       \endverb
     \endentry
-    \entry{Habermas89}{book}{}{}
+    \entry{SauraGarcia24}{article}{}{}
       \name{author}{1}{}{%
-        {{hash=943e85133c1745da2030bbddf9a8b1f6}{%
-           family={Habermas},
-           familyi={H\bibinitperiod},
-           given={Jürgen},
+        {{hash=e0b7247e00570dc033a42e2cd810ac03}{%
+           family={Saura\bibnamedelima García},
+           familyi={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0b7247e00570dc033a42e2cd810ac03}
+      \strng{fullhash}{e0b7247e00570dc033a42e2cd810ac03}
+      \strng{fullhashraw}{e0b7247e00570dc033a42e2cd810ac03}
+      \strng{bibnamehash}{e0b7247e00570dc033a42e2cd810ac03}
+      \strng{authorbibnamehash}{e0b7247e00570dc033a42e2cd810ac03}
+      \strng{authornamehash}{e0b7247e00570dc033a42e2cd810ac03}
+      \strng{authorfullhash}{e0b7247e00570dc033a42e2cd810ac03}
+      \strng{authorfullhashraw}{e0b7247e00570dc033a42e2cd810ac03}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophy {\&} Technology}
+      \field{title}{Datafeudalism: {T}he Domination of Modern Societies by Big Tech Companies}
+      \field{volume}{37}
+      \field{year}{2024}
+      \field{pages}{90}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s13347-024-00777-1
+      \endverb
+    \endentry
+    \entry{Searle80}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=932676a29fb955b21e5599a8c1c5e6ca}{%
+           family={Searle},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{fullhash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{fullhashraw}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{bibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authorbibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authornamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authorfullhash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authorfullhashraw}{932676a29fb955b21e5599a8c1c5e6ca}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Behavioral and Brain Sciences}
+      \field{number}{3}
+      \field{title}{Minds, {B}rains and {P}rograms}
+      \field{volume}{3}
+      \field{year}{1980}
+      \field{pages}{417\bibrangedash 457}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1017/S0140525X00005756
+      \endverb
+    \endentry
+    \entry{Scholem65}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=bed1ce15a56c1cb7313ec050d79fba8f}{%
+           family={Scholem},
+           familyi={S\bibinitperiod},
+           given={Gershom},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Schocken Books}%
+      }
+      \strng{namehash}{bed1ce15a56c1cb7313ec050d79fba8f}
+      \strng{fullhash}{bed1ce15a56c1cb7313ec050d79fba8f}
+      \strng{fullhashraw}{bed1ce15a56c1cb7313ec050d79fba8f}
+      \strng{bibnamehash}{bed1ce15a56c1cb7313ec050d79fba8f}
+      \strng{authorbibnamehash}{bed1ce15a56c1cb7313ec050d79fba8f}
+      \strng{authornamehash}{bed1ce15a56c1cb7313ec050d79fba8f}
+      \strng{authorfullhash}{bed1ce15a56c1cb7313ec050d79fba8f}
+      \strng{authorfullhashraw}{bed1ce15a56c1cb7313ec050d79fba8f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{On the {K}abbalah and Its Symbolism}
+      \field{note}{Trans. by R. Manheim}
+      \field{title}{The Idea of the {G}olem}
+      \field{year}{1965}
+      \field{pages}{158\bibrangedash 204}
+      \range{pages}{47}
+    \endentry
+    \entry{SimchonEdwardsLewandowsky24}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=63270f119136ea05ff85bfc5d5f16754}{%
+           family={Simchon},
+           familyi={S\bibinitperiod},
+           given={Almog},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f444c6124928f5901b88f2be68997127}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e7ebb66ea12299a9aea6e35ae34511ab}{%
+           family={Lewandowsky},
+           familyi={L\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a12438c1fd365c042c5c3e15122968ac}
+      \strng{fullhash}{9478b10e347081ba825b6bdc9125305b}
+      \strng{fullhashraw}{9478b10e347081ba825b6bdc9125305b}
+      \strng{bibnamehash}{9478b10e347081ba825b6bdc9125305b}
+      \strng{authorbibnamehash}{9478b10e347081ba825b6bdc9125305b}
+      \strng{authornamehash}{a12438c1fd365c042c5c3e15122968ac}
+      \strng{authorfullhash}{9478b10e347081ba825b6bdc9125305b}
+      \strng{authorfullhashraw}{9478b10e347081ba825b6bdc9125305b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PNAS Nexus}
+      \field{number}{2}
+      \field{title}{The Persuasive Effects of Political Microtargeting in the Age of Generative Artificial Intelligence}
+      \field{volume}{3}
+      \field{year}{2024}
+      \field{pages}{pgae035}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/pnasnexus/pgae035
+      \endverb
+    \endentry
+    \entry{Stangneth14}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=ab474a7a105a873c6b4d30ccbcf2683e}{%
+           family={Stangneth},
+           familyi={S\bibinitperiod},
+           given={Bettina},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Alfred A. Knopf}%
+      }
+      \strng{namehash}{ab474a7a105a873c6b4d30ccbcf2683e}
+      \strng{fullhash}{ab474a7a105a873c6b4d30ccbcf2683e}
+      \strng{fullhashraw}{ab474a7a105a873c6b4d30ccbcf2683e}
+      \strng{bibnamehash}{ab474a7a105a873c6b4d30ccbcf2683e}
+      \strng{authorbibnamehash}{ab474a7a105a873c6b4d30ccbcf2683e}
+      \strng{authornamehash}{ab474a7a105a873c6b4d30ccbcf2683e}
+      \strng{authorfullhash}{ab474a7a105a873c6b4d30ccbcf2683e}
+      \strng{authorfullhashraw}{ab474a7a105a873c6b4d30ccbcf2683e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Trans. by R. Martin}
+      \field{title}{Eichmann Before {J}erusalem: {T}he Unexamined Life of a Mass Murderer}
+      \field{year}{2014}
+    \endentry
+    \entry{Turing50}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=1210277649f3c7541e2750ee21da6237}{%
+           family={Turing},
+           familyi={T\bibinitperiod},
+           given={Alan\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1210277649f3c7541e2750ee21da6237}
+      \strng{fullhash}{1210277649f3c7541e2750ee21da6237}
+      \strng{fullhashraw}{1210277649f3c7541e2750ee21da6237}
+      \strng{bibnamehash}{1210277649f3c7541e2750ee21da6237}
+      \strng{authorbibnamehash}{1210277649f3c7541e2750ee21da6237}
+      \strng{authornamehash}{1210277649f3c7541e2750ee21da6237}
+      \strng{authorfullhash}{1210277649f3c7541e2750ee21da6237}
+      \strng{authorfullhashraw}{1210277649f3c7541e2750ee21da6237}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mind}
+      \field{number}{236}
+      \field{title}{Computing Machinery and Intelligence}
+      \field{volume}{59}
+      \field{year}{1950}
+      \field{pages}{433\bibrangedash 460}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1093/mind/LIX.236.433
+      \endverb
+    \endentry
+    \entry{Wiener48}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=4c57f398a86ab1994e9bd661e786e707}{%
+           family={Wiener},
+           familyi={W\bibinitperiod},
+           given={Norbert},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{fullhash}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{fullhashraw}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{bibnamehash}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{authorbibnamehash}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{authornamehash}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{authorfullhash}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{authorfullhashraw}{4c57f398a86ab1994e9bd661e786e707}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cybernetics: {O}r Control and Communication in the Animal and the Machine}
+      \field{year}{1948}
+    \endentry
+    \entry{Williams18}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d35ab5c48a065b4b45112f8788b17995}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={James},
            giveni={J\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Cambridge, MA}%
+        {Cambridge}%
       }
       \list{publisher}{1}{%
-        {MIT Press}%
+        {Cambridge University Press}%
       }
-      \strng{namehash}{943e85133c1745da2030bbddf9a8b1f6}
-      \strng{fullhash}{943e85133c1745da2030bbddf9a8b1f6}
-      \strng{fullhashraw}{943e85133c1745da2030bbddf9a8b1f6}
-      \strng{bibnamehash}{943e85133c1745da2030bbddf9a8b1f6}
-      \strng{authorbibnamehash}{943e85133c1745da2030bbddf9a8b1f6}
-      \strng{authornamehash}{943e85133c1745da2030bbddf9a8b1f6}
-      \strng{authorfullhash}{943e85133c1745da2030bbddf9a8b1f6}
-      \strng{authorfullhashraw}{943e85133c1745da2030bbddf9a8b1f6}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \strng{namehash}{d35ab5c48a065b4b45112f8788b17995}
+      \strng{fullhash}{d35ab5c48a065b4b45112f8788b17995}
+      \strng{fullhashraw}{d35ab5c48a065b4b45112f8788b17995}
+      \strng{bibnamehash}{d35ab5c48a065b4b45112f8788b17995}
+      \strng{authorbibnamehash}{d35ab5c48a065b4b45112f8788b17995}
+      \strng{authornamehash}{d35ab5c48a065b4b45112f8788b17995}
+      \strng{authorfullhash}{d35ab5c48a065b4b45112f8788b17995}
+      \strng{authorfullhashraw}{d35ab5c48a065b4b45112f8788b17995}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Trans. by T. Burger}
-      \field{title}{The Structural Transformation of the Public Sphere: {A}n Inquiry into a Category of Bourgeois Society}
-      \field{year}{1989}
+      \field{title}{Stand Out of Our Light: {F}reedom and Resistance in the Attention Economy}
+      \field{year}{2018}
+    \endentry
+    \entry{Winner86}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5b728fa2bac53879d4d099d1a35ca210}{%
+           family={Winner},
+           familyi={W\bibinitperiod},
+           given={Langdon},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{fullhash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{fullhashraw}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{bibnamehash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{authorbibnamehash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{authornamehash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{authorfullhash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{authorfullhashraw}{5b728fa2bac53879d4d099d1a35ca210}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Whale and the Reactor: {A} Search for Limits in an Age of High Technology}
+      \field{year}{1986}
     \endentry
     \entry{Wu16}{book}{}{}
       \name{author}{1}{}{%
@@ -800,198 +1551,41 @@
       \strng{authornamehash}{3f26aadd2ef4416a03f75e1898338872}
       \strng{authorfullhash}{3f26aadd2ef4416a03f75e1898338872}
       \strng{authorfullhashraw}{3f26aadd2ef4416a03f75e1898338872}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Attention Merchants: {T}he Epic Scramble to Get Inside Our Heads}
       \field{year}{2016}
     \endentry
-    \entry{Citton17}{book}{}{}
+    \entry{Zuboff19}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=f6cddcff7d7c2ec79e6550be1e8855ec}{%
-           family={Citton},
-           familyi={C\bibinitperiod},
-           given={Yves},
-           giveni={Y\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cambridge}%
-      }
-      \list{publisher}{1}{%
-        {Polity Press}%
-      }
-      \strng{namehash}{f6cddcff7d7c2ec79e6550be1e8855ec}
-      \strng{fullhash}{f6cddcff7d7c2ec79e6550be1e8855ec}
-      \strng{fullhashraw}{f6cddcff7d7c2ec79e6550be1e8855ec}
-      \strng{bibnamehash}{f6cddcff7d7c2ec79e6550be1e8855ec}
-      \strng{authorbibnamehash}{f6cddcff7d7c2ec79e6550be1e8855ec}
-      \strng{authornamehash}{f6cddcff7d7c2ec79e6550be1e8855ec}
-      \strng{authorfullhash}{f6cddcff7d7c2ec79e6550be1e8855ec}
-      \strng{authorfullhashraw}{f6cddcff7d7c2ec79e6550be1e8855ec}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Trans. by B. Norman}
-      \field{title}{The {E}cology of {A}ttention}
-      \field{year}{2017}
-    \endentry
-    \entry{GonzalezDeLaTorre24}{misc}{}{}
-      \name{author}{3}{}{%
-        {{hash=b41941fb4009c169533be6a829ded9ee}{%
-           family={González\bibnamedelimb de\bibnamedelimb la\bibnamedelima Torre},
-           familyi={G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim T\bibinitperiod},
-           given={Pablo},
-           giveni={P\bibinitperiod}}}%
-        {{hash=d70bad4ab77ab82b728aa3193e858e4e}{%
-           family={Pérez-Verdugo},
-           familyi={P\bibinithyphendelim V\bibinitperiod},
-           given={Marta},
-           giveni={M\bibinitperiod}}}%
-        {{hash=2b0c3b682d2e5d88b300b706ac0de55d}{%
-           family={Barandiaran},
-           familyi={B\bibinitperiod},
-           given={Xabier\bibnamedelima E.},
-           giveni={X\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \strng{namehash}{e1830ec69e6865945a7a361d8653f9c5}
-      \strng{fullhash}{675ae33aa8ae549d650e334ad588afa4}
-      \strng{fullhashraw}{675ae33aa8ae549d650e334ad588afa4}
-      \strng{bibnamehash}{675ae33aa8ae549d650e334ad588afa4}
-      \strng{authorbibnamehash}{675ae33aa8ae549d650e334ad588afa4}
-      \strng{authornamehash}{e1830ec69e6865945a7a361d8653f9c5}
-      \strng{authorfullhash}{675ae33aa8ae549d650e334ad588afa4}
-      \strng{authorfullhashraw}{675ae33aa8ae549d650e334ad588afa4}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{arXiv:2405.06478v1}
-      \field{title}{Attention is all they need: {C}ognitive science and the (techno)political economy of attention in humans and machines}
-      \field{year}{2024}
-    \endentry
-    \entry{Dean09}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=b6b7d2086d38b6c2d50eba34ee2b1c63}{%
-           family={Dean},
-           familyi={D\bibinitperiod},
-           given={Jodi},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Durham}%
-      }
-      \list{publisher}{1}{%
-        {Duke University Press}%
-      }
-      \strng{namehash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
-      \strng{fullhash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
-      \strng{fullhashraw}{b6b7d2086d38b6c2d50eba34ee2b1c63}
-      \strng{bibnamehash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
-      \strng{authorbibnamehash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
-      \strng{authornamehash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
-      \strng{authorfullhash}{b6b7d2086d38b6c2d50eba34ee2b1c63}
-      \strng{authorfullhashraw}{b6b7d2086d38b6c2d50eba34ee2b1c63}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Democracy and Other Neoliberal Fantasies: {C}ommunicative Capitalism and Left Politics}
-      \field{year}{2009}
-    \endentry
-    \entry{Kahneman11}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
-           family={Kahneman},
-           familyi={K\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{2}{%
-        {Farrar, Straus}%
-        {Giroux}%
-      }
-      \strng{namehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{fullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{fullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{bibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authorbibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authornamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authorfullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authorfullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Thinking, Fast and Slow}
-      \field{year}{2011}
-    \endentry
-    \entry{Carr10}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=e34c4ff52dae113762a8ba08d9248b00}{%
-           family={Carr},
-           familyi={C\bibinitperiod},
-           given={Nicholas},
-           giveni={N\bibinitperiod}}}%
+        {{hash=19b83c33a232c9892502d941e4cfcf56}{%
+           family={Zuboff},
+           familyi={Z\bibinitperiod},
+           given={Shoshana},
+           giveni={S\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
       }
       \list{publisher}{1}{%
-        {W.W. Norton {\&} Company}%
+        {PublicAffairs}%
       }
-      \strng{namehash}{e34c4ff52dae113762a8ba08d9248b00}
-      \strng{fullhash}{e34c4ff52dae113762a8ba08d9248b00}
-      \strng{fullhashraw}{e34c4ff52dae113762a8ba08d9248b00}
-      \strng{bibnamehash}{e34c4ff52dae113762a8ba08d9248b00}
-      \strng{authorbibnamehash}{e34c4ff52dae113762a8ba08d9248b00}
-      \strng{authornamehash}{e34c4ff52dae113762a8ba08d9248b00}
-      \strng{authorfullhash}{e34c4ff52dae113762a8ba08d9248b00}
-      \strng{authorfullhashraw}{e34c4ff52dae113762a8ba08d9248b00}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \strng{namehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{fullhash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{fullhashraw}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{bibnamehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{authorbibnamehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{authornamehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{authorfullhash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{authorfullhashraw}{19b83c33a232c9892502d941e4cfcf56}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The {S}hallows: {W}hat the {I}nternet Is Doing to Our Brains}
-      \field{year}{2010}
-    \endentry
-    \entry{Belgroun25}{misc}{}{}
-      \name{author}{3}{}{%
-        {{hash=8e75c743374a50767248db72b296d574}{%
-           family={Belgroun},
-           familyi={B\bibinitperiod},
-           given={Hamza},
-           giveni={H\bibinitperiod}}}%
-        {{hash=f1a5ecde19ba723e1c7c9cba9892e7d0}{%
-           family={Michel},
-           familyi={M\bibinitperiod},
-           given={Franck},
-           giveni={F\bibinitperiod}}}%
-        {{hash=d90c37a4d07623002bb1e34c8fbc4c38}{%
-           family={Gandon},
-           familyi={G\bibinitperiod},
-           given={Fabien},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{8b84805aec10173e063ffc8fa42f5c50}
-      \strng{fullhash}{7daf9ae60db838942e9cbcab60753e42}
-      \strng{fullhashraw}{7daf9ae60db838942e9cbcab60753e42}
-      \strng{bibnamehash}{7daf9ae60db838942e9cbcab60753e42}
-      \strng{authorbibnamehash}{7daf9ae60db838942e9cbcab60753e42}
-      \strng{authornamehash}{8b84805aec10173e063ffc8fa42f5c50}
-      \strng{authorfullhash}{7daf9ae60db838942e9cbcab60753e42}
-      \strng{authorfullhashraw}{7daf9ae60db838942e9cbcab60753e42}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{arXiv:2509.06453v2 [cs.SI]}
-      \field{title}{No Such Thing as Free Brain Time: {F}or a {P}igouvian Tax on Attention Capture}
-      \field{year}{2025}
+      \field{title}{The {A}ge of {S}urveillance {C}apitalism: {T}he Fight for a Human Future at the New Frontier of Power}
+      \field{year}{2019}
     \endentry
   \enddatalist
 \endrefsection
