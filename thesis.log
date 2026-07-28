@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  27 JUL 2026 22:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  28 JUL 2026 13:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1642,7 +1642,7 @@ Package hyperref Info: Option `pageanchor' set `false' on input line 39.
 LaTeX Font Warning: Font shape `T2A/lmr/bx/n' undefined
 (Font)              using `T2A/lmr/m/n' instead on input line 43.
 
-<img/logo.png, id=131, 250.9375pt x 250.9375pt>
+<img/logo.png, id=171, 250.9375pt x 250.9375pt>
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 51.
@@ -1697,31 +1697,33 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-))
-\tf@toc=\write8
-\openout8 = `thesis.toc'.
-
-
+)
 
 [4
 
 
 
-]
+])
+\tf@toc=\write8
+\openout8 = `thesis.toc'.
+
+
+
+[5]
 \openout2 = `uvod.aux'.
 
  (./uvod.tex
 
-[5
+[6
 
 
 ]
 
-[6]
+[7]
 
-[7])
+[8])
 
-[8]
+[9]
 \openout2 = `kap01.aux'.
 
  (./kap01.tex
@@ -1733,14 +1735,14 @@ Underfull \hbox (badness 1237) in paragraph at lines 19--22
 
 
 
-[9
+[10
 
 
 
 
 ]
 
-[10]
+[11]
 Underfull \hbox (badness 3343) in paragraph at lines 57--57
 []\T2A/lmr/bx/n/17.28 (+20) Transformace pojmu "my^^Gslen^^A^^Y": od lidsk^^Aeho k
  []
@@ -1752,43 +1754,36 @@ Underfull \hbox (badness 1033) in paragraph at lines 63--68
 
 
 
-[11]
-
 [12]
+
+[13]
 Underfull \hbox (badness 1701) in paragraph at lines 100--105
 []\T2A/lmr/bx/n/12 (+20) V tomto kon-textu je vhodn^^Ae p^^Gripomenout Agam-bena. Jeho kon-cept
  []
 
 
 
-[13]
-
 [14]
 
-[15])
+[15]
 
 [16]
+
+[17])
+
+[18]
 \openout2 = `kap02.aux'.
 
  (./kap02.tex
 Kapitola 2.
 
-Underfull \hbox (badness 1442) in paragraph at lines 13--13
-[]\T2A/lmr/bx/n/17.28 (+20) Habermas^^Fuv roz-voj: ko-mu-ni-ka-tivn^^A^^Y ra-ci-o-na-lita a
- []
 
-
-
-[17
+[19
 
 
 
 
 ]
-
-[18]
-
-[19]
 
 [20]
 
@@ -1814,25 +1809,25 @@ Underfull \hbox (badness 1442) in paragraph at lines 13--13
 
 [31]
 
-[32])
+[32]
 
 [33]
+
+[34])
+
+[35]
 \openout2 = `kap03.aux'.
 
  (./kap03.tex
 Kapitola 3.
 
 
-[34
+[36
 
 
 
 
 ]
-
-[35]
-
-[36]
 
 [37]
 
@@ -1843,6 +1838,10 @@ Kapitola 3.
 [40]
 
 [41]
+
+[42]
+
+[43]
 Underfull \hbox (badness 1406) in paragraph at lines 147--157
 []\T2A/lmr/bx/n/12 (+20) (c) Struk-tur^^Aaln^^A^^Y teze ^^V teze p^^Gredkl^^Aadan^^Ae pr^^Aace: nev^^Aazan^^Ae do-mi-nium
  []
@@ -1854,23 +1853,23 @@ Underfull \hbox (badness 1454) in paragraph at lines 147--157
 
 
 
-[42])
+[44])
 
-[43]
+[45]
 
-[44]
+[46]
 \openout2 = `zaver.aux'.
 
  (./zaver.tex
 
-[45
+[47
 
 
 
 
 ])
 
-[46]
+[48]
 \openout2 = `literatura.aux'.
 
  (./literatura.tex
@@ -1899,14 +1898,14 @@ Underfull \hbox (badness 1158) in paragraph at lines 15--15
 
 
 
-[47
+[49
 
 
 
 
 ])
 
-[48]
+[50]
 
 Package caption Warning: Unused \captionsetup[algorithm] on input line 47.
 See the caption package documentation for explanation.
@@ -1925,24 +1924,24 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: CD53F3CCE6F4633468992975CE1FA5E9;8809.
+(rerunfilecheck)             Checksum: 77BB36B42574D0C75098F2368FC869E7;11358.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30526 strings out of 473190
- 523446 string characters out of 5704335
- 1423989 words of memory out of 5000000
- 53041 multiletter control sequences out of 15000+600000
+ 30548 strings out of 473190
+ 523782 string characters out of 5704335
+ 1424029 words of memory out of 5000000
+ 53051 multiletter control sequences out of 15000+600000
  597136 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 92i,7n,95p,1321b,2952s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,7n,95p,1321b,3647s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on thesis.pdf (48 pages, 320850 bytes).
+Output written on thesis.pdf (50 pages, 333683 bytes).
 PDF statistics:
- 563 PDF objects out of 1000 (max. 8388607)
- 494 compressed objects within 5 object streams
- 122 named destinations out of 1000 (max. 500000)
- 37642 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 625 PDF objects out of 1000 (max. 8388607)
+ 553 compressed objects within 6 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 37722 words of extra memory for PDF output out of 42996 (max. 10000000)
 

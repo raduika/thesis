@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  27 JUL 2026 19:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  28 JUL 2026 12:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -917,15 +917,15 @@ Package rerunfilecheck Info: File `abstract-cs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15192 strings out of 473190
- 235109 string characters out of 5704335
- 639233 words of memory out of 5000000
- 38238 multiletter control sequences out of 15000+600000
+ 15194 strings out of 473190
+ 235153 string characters out of 5704335
+ 635076 words of memory out of 5000000
+ 38240 multiletter control sequences out of 15000+600000
  562898 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  92i,5n,95p,861b,2320s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb>
-Output written on abstract-cs.pdf (1 page, 40821 bytes).
+Output written on abstract-cs.pdf (1 page, 38362 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
