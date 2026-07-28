@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1785260462.61719 "/Users/annaradyuk/Desktop/thesis/abstract-en.tex" "abstract-en.pdf" "abstract-en" 1785260463.23817 0
-  "/Users/annaradyuk/Desktop/thesis/abstract-en.tex" 1785260462.2744 896 4d18b44aa1ce880f325c7a047234dc93 ""
+["pdflatex"] 1785267273.26114 "/Users/annaradyuk/Desktop/thesis/abstract-en.tex" "abstract-en.pdf" "abstract-en" 1785267273.80969 0
+  "/Users/annaradyuk/Desktop/thesis/abstract-en.tex" 1785263977.89134 896 4d18b44aa1ce880f325c7a047234dc93 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1741388039 2375 baa924870cfb487815765f9094cf3728 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -90,15 +90,15 @@
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/xmpincl/xmpincl.sty" 1741388039 2832 d498c59e94b7dfa3b4bcf74380ad6348 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346125 851abcc596872d7f7285a006ccee0040 ""
-  "abstract-en.aux" 1785260463.18397 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "abstract-en.out" 1785260463.17956 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "abstract-en.tex" 1785260462.2744 896 4d18b44aa1ce880f325c7a047234dc93 ""
-  "abstract-en.xmpdata" 1785260462.74889 295 fd0d5e1b852955f713a31ea55f1e696a "pdflatex"
+  "abstract-en.aux" 1785267273.75454 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "abstract-en.out" 1785267273.75018 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "abstract-en.tex" 1785263977.89134 896 4d18b44aa1ce880f325c7a047234dc93 ""
+  "abstract-en.xmpdata" 1785267273.34014 295 fd0d5e1b852955f713a31ea55f1e696a "pdflatex"
   "macros.tex" 1785186963.2364 5689 10ee0394f67d6a8fcbb735f9b9beaed4 ""
   "metadata.tex" 1785235598.20193 4140 2e2dfb1b3be8375e58cdb7297eb1b428 ""
-  "pdfa.xmpi" 1785260463.11321 5429 4d2778fc2d8d2cf6512b52c35e591b39 "pdflatex"
+  "pdfa.xmpi" 1785267273.68713 5429 0869dfa66b568d10942f2eae48106f5c "pdflatex"
   "version" 1778508081 23 bb1f0510ca7d10eafa22baa6e7fb6769 ""
-  "xmp.tex" 1778509048 1031 6779925a3038d3bd522df84ccd3762a1 ""
+  "xmp.tex" 1785267272.30653 1031 6779925a3038d3bd522df84ccd3762a1 ""
   (generated)
   "abstract-en.aux"
   "abstract-en.log"
