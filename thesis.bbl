@@ -224,6 +224,35 @@
       \field{title}{Race After Technology: {A}bolitionist Tools for the New Jim Code}
       \field{year}{2019}
     \endentry
+    \entry{BohmBawerk89}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f0266596c53bd1956cc05559fade539e}{%
+           family={Böhm-Bawerk},
+           familyi={B\bibinithyphendelim B\bibinitperiod},
+           given={Eugen\bibnamedelima von},
+           giveni={E\bibinitperiod\bibinitdelim v\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Innsbruck}%
+      }
+      \list{publisher}{1}{%
+        {Wagner}%
+      }
+      \strng{namehash}{f0266596c53bd1956cc05559fade539e}
+      \strng{fullhash}{f0266596c53bd1956cc05559fade539e}
+      \strng{fullhashraw}{f0266596c53bd1956cc05559fade539e}
+      \strng{bibnamehash}{f0266596c53bd1956cc05559fade539e}
+      \strng{authorbibnamehash}{f0266596c53bd1956cc05559fade539e}
+      \strng{authornamehash}{f0266596c53bd1956cc05559fade539e}
+      \strng{authorfullhash}{f0266596c53bd1956cc05559fade539e}
+      \strng{authorfullhashraw}{f0266596c53bd1956cc05559fade539e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kapital und {K}apitalzins. {Z}weite {A}bteilung: {P}ositive {T}heorie des {K}apitales}
+      \field{year}{1889}
+    \endentry
     \entry{Bruns19}{book}{}{}
       \name{author}{1}{}{%
         {{hash=6875548170c99312907a9940f56de3c2}{%
@@ -297,7 +326,7 @@
         {New York}%
       }
       \list{publisher}{1}{%
-        {W.W. Norton {\&} Company}%
+        {W. W. Norton {\&} Company}%
       }
       \strng{namehash}{e34c4ff52dae113762a8ba08d9248b00}
       \strng{fullhash}{e34c4ff52dae113762a8ba08d9248b00}
@@ -843,6 +872,38 @@
       \verb 10.1126/science.abp9364
       \endverb
     \endentry
+    \entry{Habermas84}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=943e85133c1745da2030bbddf9a8b1f6}{%
+           family={Habermas},
+           familyi={H\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Beacon Press}%
+      }
+      \strng{namehash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{fullhash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{fullhashraw}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{bibnamehash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{authorbibnamehash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{authornamehash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{authorfullhash}{943e85133c1745da2030bbddf9a8b1f6}
+      \strng{authorfullhashraw}{943e85133c1745da2030bbddf9a8b1f6}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-8070-1507-5}
+      \field{note}{Trans. by T. McCarthy}
+      \field{title}{The Theory of Communicative Action. {V}olume 1: {R}eason and the Rationalization of Society}
+      \field{year}{1984}
+    \endentry
     \entry{Habermas89}{book}{}{}
       \name{author}{1}{}{%
         {{hash=943e85133c1745da2030bbddf9a8b1f6}{%
@@ -865,6 +926,7 @@
       \strng{authornamehash}{943e85133c1745da2030bbddf9a8b1f6}
       \strng{authorfullhash}{943e85133c1745da2030bbddf9a8b1f6}
       \strng{authorfullhashraw}{943e85133c1745da2030bbddf9a8b1f6}
+      \field{extraname}{2}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
@@ -949,9 +1011,8 @@
       \list{location}{1}{%
         {New York}%
       }
-      \list{publisher}{2}{%
-        {Farrar, Straus}%
-        {Giroux}%
+      \list{publisher}{1}{%
+        {Farrar, Straus and Giroux}%
       }
       \strng{namehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
       \strng{fullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
@@ -1035,6 +1096,35 @@
       \verb 10.1016/j.giq.2020.101489
       \endverb
     \endentry
+    \entry{Kosinski21}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=0d3b7097a65959fe325e6cc5f3dd4f72}{%
+           family={Kosinski},
+           familyi={K\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d3b7097a65959fe325e6cc5f3dd4f72}
+      \strng{fullhash}{0d3b7097a65959fe325e6cc5f3dd4f72}
+      \strng{fullhashraw}{0d3b7097a65959fe325e6cc5f3dd4f72}
+      \strng{bibnamehash}{0d3b7097a65959fe325e6cc5f3dd4f72}
+      \strng{authorbibnamehash}{0d3b7097a65959fe325e6cc5f3dd4f72}
+      \strng{authornamehash}{0d3b7097a65959fe325e6cc5f3dd4f72}
+      \strng{authorfullhash}{0d3b7097a65959fe325e6cc5f3dd4f72}
+      \strng{authorfullhashraw}{0d3b7097a65959fe325e6cc5f3dd4f72}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{100}
+      \field{title}{Facial recognition technology can expose political orientation from naturalistic facial images}
+      \field{volume}{11}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1038/s41598-020-79310-1
+      \endverb
+    \endentry
     \entry{Levinas69}{book}{}{}
       \name{author}{1}{}{%
         {{hash=a8d36406126d3d36c4e074b1733cbac8}{%
@@ -1065,6 +1155,135 @@
       \field{title}{Totality and Infinity: {A}n Essay on Exteriority}
       \field{year}{1969}
     \endentry
+    \entry{Lovett10}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=4777210e2a333ca06b5903a9845d5811}{%
+           family={Lovett},
+           familyi={L\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{4777210e2a333ca06b5903a9845d5811}
+      \strng{fullhash}{4777210e2a333ca06b5903a9845d5811}
+      \strng{fullhashraw}{4777210e2a333ca06b5903a9845d5811}
+      \strng{bibnamehash}{4777210e2a333ca06b5903a9845d5811}
+      \strng{authorbibnamehash}{4777210e2a333ca06b5903a9845d5811}
+      \strng{authornamehash}{4777210e2a333ca06b5903a9845d5811}
+      \strng{authorfullhash}{4777210e2a333ca06b5903a9845d5811}
+      \strng{authorfullhashraw}{4777210e2a333ca06b5903a9845d5811}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A General Theory of Domination and Justice}
+      \field{year}{2010}
+    \endentry
+    \entry{Marx44}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=af80d32a7d375e934f94bdfb27bf2999}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Mineola, NY}%
+      }
+      \list{publisher}{1}{%
+        {Dover}%
+      }
+      \strng{namehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{fullhash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{fullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{bibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authorbibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authornamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authorfullhash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authorfullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-486-45561-3}
+      \field{sortyear}{1844}
+      \field{title}{Economic and Philosophic Manuscripts of 1844 [Ekonomicko-filozofické rukopisy z roku 1844]}
+      \field{year}{2007}
+    \endentry
+    \entry{Marx64}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=af80d32a7d375e934f94bdfb27bf2999}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Classics}%
+      }
+      \strng{namehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{fullhash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{fullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{bibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authorbibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authornamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authorfullhash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authorfullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Capital. {V}olume One}
+      \field{note}{Trans. by B. Fowkes}
+      \field{sortyear}{1864}
+      \field{title}{Results of the Immediate Process of Production [Výsledky bezprostředního výrobního procesu, 1864]}
+      \field{year}{1990}
+      \field{pages}{943\bibrangedash 1084}
+      \range{pages}{142}
+    \endentry
+    \entry{Marx67}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=af80d32a7d375e934f94bdfb27bf2999}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Classics}%
+      }
+      \strng{namehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{fullhash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{fullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{bibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authorbibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authornamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authorfullhash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authorfullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-14-044568-8}
+      \field{note}{Trans. by B. Fowkes}
+      \field{sortyear}{1867}
+      \field{title}{Capital. {V}olume One [Kapítál. {K}ritika politické ekonomie. {D}íl první, 1867]}
+      \field{year}{1990}
+    \endentry
     \entry{McQuillan22}{book}{}{}
       \name{author}{1}{}{%
         {{hash=073efaf80a8e361fa3066607b3af0da9}{%
@@ -1093,6 +1312,35 @@
       \field{labeltitlesource}{title}
       \field{title}{Resisting {AI}: {A}n Anti-fascist Approach to Artificial Intelligence}
       \field{year}{2022}
+    \endentry
+    \entry{Mouffe13}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=4f36bd6eb87823e951d3a1406c7ad9a0}{%
+           family={Mouffe},
+           familyi={M\bibinitperiod},
+           given={Chantal},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{4f36bd6eb87823e951d3a1406c7ad9a0}
+      \strng{fullhash}{4f36bd6eb87823e951d3a1406c7ad9a0}
+      \strng{fullhashraw}{4f36bd6eb87823e951d3a1406c7ad9a0}
+      \strng{bibnamehash}{4f36bd6eb87823e951d3a1406c7ad9a0}
+      \strng{authorbibnamehash}{4f36bd6eb87823e951d3a1406c7ad9a0}
+      \strng{authornamehash}{4f36bd6eb87823e951d3a1406c7ad9a0}
+      \strng{authorfullhash}{4f36bd6eb87823e951d3a1406c7ad9a0}
+      \strng{authorfullhashraw}{4f36bd6eb87823e951d3a1406c7ad9a0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Agonistics: {T}hinking the World Politically}
+      \field{year}{2013}
     \endentry
     \entry{Noble18}{book}{}{}
       \name{author}{1}{}{%
@@ -1246,6 +1494,89 @@
       \verb 10.1007/s13347-022-00512-8
       \endverb
     \endentry
+    \entry{Pettit97}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3693b7eaa3d46652fd7f85cfd01de86d}{%
+           family={Pettit},
+           familyi={P\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{fullhash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{fullhashraw}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{bibnamehash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{authorbibnamehash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{authornamehash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{authorfullhash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{authorfullhashraw}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Republicanism: {A} Theory of Freedom and Government}
+      \field{year}{1997}
+    \endentry
+    \entry{Pettit12}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3693b7eaa3d46652fd7f85cfd01de86d}{%
+           family={Pettit},
+           familyi={P\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{fullhash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{fullhashraw}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{bibnamehash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{authorbibnamehash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{authornamehash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{authorfullhash}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \strng{authorfullhashraw}{3693b7eaa3d46652fd7f85cfd01de86d}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On the People's Terms: {A} Republican Theory and Model of Democracy}
+      \field{year}{2012}
+    \endentry
+    \entry{RechtbankSyRI20}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=8a44325837ba2636b631368e451ea346}{%
+           family={{Rechtbank Den Haag}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a44325837ba2636b631368e451ea346}
+      \strng{fullhash}{8a44325837ba2636b631368e451ea346}
+      \strng{fullhashraw}{8a44325837ba2636b631368e451ea346}
+      \strng{bibnamehash}{8a44325837ba2636b631368e451ea346}
+      \strng{authorbibnamehash}{8a44325837ba2636b631368e451ea346}
+      \strng{authornamehash}{8a44325837ba2636b631368e451ea346}
+      \strng{authorfullhash}{8a44325837ba2636b631368e451ea346}
+      \strng{authorfullhashraw}{8a44325837ba2636b631368e451ea346}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Rozsudek ze dne 5. 2. 2020}
+      \field{note}{Nizozemský okresní soud v Haagu; věc System Risico Indicatie (SyRI)}
+      \field{title}{{ECLI:NL:RBDHA:2020:865} ({SyRI})}
+      \field{year}{2020}
+    \endentry
     \entry{SauraGarcia24}{article}{}{}
       \name{author}{1}{}{%
         {{hash=e0b7247e00570dc033a42e2cd810ac03}{%
@@ -1274,37 +1605,6 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1007/s13347-024-00777-1
-      \endverb
-    \endentry
-    \entry{Searle80}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=932676a29fb955b21e5599a8c1c5e6ca}{%
-           family={Searle},
-           familyi={S\bibinitperiod},
-           given={John\bibnamedelima R.},
-           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \strng{namehash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{fullhash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{fullhashraw}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{bibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{authorbibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{authornamehash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{authorfullhash}{932676a29fb955b21e5599a8c1c5e6ca}
-      \strng{authorfullhashraw}{932676a29fb955b21e5599a8c1c5e6ca}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Behavioral and Brain Sciences}
-      \field{number}{3}
-      \field{title}{Minds, {B}rains and {P}rograms}
-      \field{volume}{3}
-      \field{year}{1980}
-      \field{pages}{417\bibrangedash 457}
-      \range{pages}{41}
-      \verb{doi}
-      \verb 10.1017/S0140525X00005756
       \endverb
     \endentry
     \entry{Scholem65}{incollection}{}{}
@@ -1339,6 +1639,70 @@
       \field{year}{1965}
       \field{pages}{158\bibrangedash 204}
       \range{pages}{47}
+    \endentry
+    \entry{Searle80}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=932676a29fb955b21e5599a8c1c5e6ca}{%
+           family={Searle},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{fullhash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{fullhashraw}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{bibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authorbibnamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authornamehash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authorfullhash}{932676a29fb955b21e5599a8c1c5e6ca}
+      \strng{authorfullhashraw}{932676a29fb955b21e5599a8c1c5e6ca}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Behavioral and Brain Sciences}
+      \field{number}{3}
+      \field{title}{Minds, {B}rains and {P}rograms}
+      \field{volume}{3}
+      \field{year}{1980}
+      \field{pages}{417\bibrangedash 457}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1017/S0140525X00005756
+      \endverb
+    \endentry
+    \entry{SeltzerAnderson01}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=767e709d29a2dcf703d6a49c655b44ec}{%
+           family={Seltzer},
+           familyi={S\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=46a918e46f75e285704a4c26ab89ba40}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Margo},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1716e0c37c2a889ab149046485e8f2e7}
+      \strng{fullhash}{1716e0c37c2a889ab149046485e8f2e7}
+      \strng{fullhashraw}{1716e0c37c2a889ab149046485e8f2e7}
+      \strng{bibnamehash}{1716e0c37c2a889ab149046485e8f2e7}
+      \strng{authorbibnamehash}{1716e0c37c2a889ab149046485e8f2e7}
+      \strng{authornamehash}{1716e0c37c2a889ab149046485e8f2e7}
+      \strng{authorfullhash}{1716e0c37c2a889ab149046485e8f2e7}
+      \strng{authorfullhashraw}{1716e0c37c2a889ab149046485e8f2e7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Social Research}
+      \field{number}{2}
+      \field{title}{The Dark Side of Numbers: {T}he Role of Population Data Systems in Human Rights Abuses}
+      \field{volume}{68}
+      \field{year}{2001}
+      \field{pages}{481\bibrangedash 513}
+      \range{pages}{33}
     \endentry
     \entry{SimchonEdwardsLewandowsky24}{article}{}{}
       \name{author}{3}{}{%
@@ -1380,6 +1744,79 @@
       \verb{doi}
       \verb 10.1093/pnasnexus/pgae035
       \endverb
+    \endentry
+    \entry{Simon71}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=09c462602325128c408aa39c70c6ae62}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Herbert\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ec8036eadeb621b47ad1bcaf522bd6fd}{%
+           family={Greenberger},
+           familyi={G\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Baltimore}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins Press}%
+      }
+      \strng{namehash}{09c462602325128c408aa39c70c6ae62}
+      \strng{fullhash}{09c462602325128c408aa39c70c6ae62}
+      \strng{fullhashraw}{09c462602325128c408aa39c70c6ae62}
+      \strng{bibnamehash}{09c462602325128c408aa39c70c6ae62}
+      \strng{authorbibnamehash}{09c462602325128c408aa39c70c6ae62}
+      \strng{authornamehash}{09c462602325128c408aa39c70c6ae62}
+      \strng{authorfullhash}{09c462602325128c408aa39c70c6ae62}
+      \strng{authorfullhashraw}{09c462602325128c408aa39c70c6ae62}
+      \strng{editorbibnamehash}{ec8036eadeb621b47ad1bcaf522bd6fd}
+      \strng{editornamehash}{ec8036eadeb621b47ad1bcaf522bd6fd}
+      \strng{editorfullhash}{ec8036eadeb621b47ad1bcaf522bd6fd}
+      \strng{editorfullhashraw}{ec8036eadeb621b47ad1bcaf522bd6fd}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computers, Communications, and the Public Interest}
+      \field{title}{Designing Organizations for an Information-Rich World}
+      \field{year}{1971}
+      \field{pages}{37\bibrangedash 72}
+      \range{pages}{36}
+    \endentry
+    \entry{Srnicek17}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=526b7fb7bdcd2d6391796a73b7481f2d}{%
+           family={Srnicek},
+           familyi={S\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Polity Press}%
+      }
+      \strng{namehash}{526b7fb7bdcd2d6391796a73b7481f2d}
+      \strng{fullhash}{526b7fb7bdcd2d6391796a73b7481f2d}
+      \strng{fullhashraw}{526b7fb7bdcd2d6391796a73b7481f2d}
+      \strng{bibnamehash}{526b7fb7bdcd2d6391796a73b7481f2d}
+      \strng{authorbibnamehash}{526b7fb7bdcd2d6391796a73b7481f2d}
+      \strng{authornamehash}{526b7fb7bdcd2d6391796a73b7481f2d}
+      \strng{authorfullhash}{526b7fb7bdcd2d6391796a73b7481f2d}
+      \strng{authorfullhashraw}{526b7fb7bdcd2d6391796a73b7481f2d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-5095-0487-9}
+      \field{title}{Platform Capitalism}
+      \field{year}{2017}
     \endentry
     \entry{Stangneth14}{book}{}{}
       \name{author}{1}{}{%
@@ -1586,6 +2023,38 @@
       \field{labeltitlesource}{title}
       \field{title}{The {A}ge of {S}urveillance {C}apitalism: {T}he Fight for a Human Future at the New Frontier of Power}
       \field{year}{2019}
+    \endentry
+    \entry{Zwart17}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=89ce3fa2373a7e38149d455043b676a9}{%
+           family={Zwart},
+           familyi={Z\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{89ce3fa2373a7e38149d455043b676a9}
+      \strng{fullhash}{89ce3fa2373a7e38149d455043b676a9}
+      \strng{fullhashraw}{89ce3fa2373a7e38149d455043b676a9}
+      \strng{bibnamehash}{89ce3fa2373a7e38149d455043b676a9}
+      \strng{authorbibnamehash}{89ce3fa2373a7e38149d455043b676a9}
+      \strng{authornamehash}{89ce3fa2373a7e38149d455043b676a9}
+      \strng{authorfullhash}{89ce3fa2373a7e38149d455043b676a9}
+      \strng{authorfullhashraw}{89ce3fa2373a7e38149d455043b676a9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{PhilArchive}
+      \field{title}{Freedom {F}rom {D}omination and {O}ur {T}echnological {P}redicament}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://philarchive.org/rec/DEZFFD
+      \endverb
+      \verb{url}
+      \verb https://philarchive.org/rec/DEZFFD
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

@@ -1,14 +1,17 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'thesis.blg'
-[35] biber:342> INFO - === Tue Jul 28, 2026, 22:43:52
-[45] Biber.pm:421> INFO - Reading 'thesis.bcf'
-[137] Biber.pm:1002> INFO - Found 46 citekeys in bib section 0
-[149] Biber.pm:4487> INFO - Processing section 0
-[155] Biber.pm:4678> INFO - Looking for bibtex file 'literatura.bib' for section 0
-[156] bibtex.pm:1713> INFO - LaTeX decoding ...
-[181] bibtex.pm:1519> INFO - Found BibTeX data source 'literatura.bib'
-[337] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
-[337] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[337] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'cs-CZ'
-[363] bbl.pm:676> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[373] bbl.pm:779> INFO - Output to thesis.bbl
+[35] biber:342> INFO - === Wed Jul 29, 2026, 23:25:59
+[44] Biber.pm:421> INFO - Reading 'thesis.bcf'
+[98] Biber.pm:1002> INFO - Found 61 citekeys in bib section 0
+[106] Biber.pm:4487> INFO - Processing section 0
+[111] Biber.pm:4678> INFO - Looking for bibtex file 'literatura.bib' for section 0
+[112] bibtex.pm:1713> INFO - LaTeX decoding ...
+[140] bibtex.pm:1519> INFO - Found BibTeX data source 'literatura.bib'
+[332] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[332] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[332] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en_US'
+[332] Biber.pm:4313> INFO - No sort tailoring available for locale 'en_US'
+[365] bbl.pm:676> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[379] bbl.pm:779> INFO - Output to thesis.bbl
+[380] Biber.pm:132> WARN - ISBN '978-0-486-45561-3' in entry 'Marx44' is invalid - run biber with '--validate_datamodel' for details.
+[380] Biber.pm:134> INFO - WARNINGS: 1

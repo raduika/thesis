@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  28 JUL 2026 22:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  29 JUL 2026 23:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1642,7 +1642,7 @@ Package hyperref Info: Option `pageanchor' set `false' on input line 39.
 LaTeX Font Warning: Font shape `T2A/lmr/bx/n' undefined
 (Font)              using `T2A/lmr/m/n' instead on input line 43.
 
-<img/logo.png, id=175, 250.9375pt x 250.9375pt>
+<img/logo.png, id=179, 250.9375pt x 250.9375pt>
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 51.
@@ -1848,20 +1848,20 @@ Kapitola 3.
 [41]
 
 [42]
-Underfull \hbox (badness 1406) in paragraph at lines 147--157
+
+[43]
+Underfull \hbox (badness 1406) in paragraph at lines 150--160
 []\T2A/lmr/bx/n/12 (+20) (c) Struk-tur^^Aaln^^A^^Y teze ^^V teze p^^Gredkl^^Aadan^^Ae pr^^Aace: nev^^Aazan^^Ae do-mi-nium
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 147--157
+Underfull \hbox (badness 1454) in paragraph at lines 150--160
 \T2A/lmr/bx/n/12 (+20) je podm^^A^^Ynkou mo^^Gznosti au-to-rit^^Aa^^Grsk^^Aeho ucho-pen^^A^^Y. In-frastruk-tura sv^^Aevoln^^Ae,
  []
 
 
 
-[43])
-
-[44]
+[44])
 
 [45]
 \openout2 = `zaver.aux'.
@@ -1911,14 +1911,16 @@ Underfull \hbox (badness 1158) in paragraph at lines 15--15
 []\T2A/lmr/m/it/12 (+20) Searle, John R. Minds, Bra-ins and Pro-grams. The Be-ha-vi-o-ral and
  []
 
-)
 
-[50]
+
+[50])
+
+[51]
 \openout2 = `zkratky.aux'.
 
  (./zkratky.tex)
 
-[51
+[52
 
 
 
@@ -1942,24 +1944,24 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 1B385A5D9CFF0919B5E711F614CCE1FE;11418.
+(rerunfilecheck)             Checksum: B11E978396A6E41B221B60313C74D0BC;11805.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30644 strings out of 473190
- 526634 string characters out of 5704335
- 1427553 words of memory out of 5000000
- 53093 multiletter control sequences out of 15000+600000
- 601832 words of font info for 157 fonts, out of 8000000 for 9000
+ 30710 strings out of 473190
+ 528919 string characters out of 5704335
+ 1429425 words of memory out of 5000000
+ 53140 multiletter control sequences out of 15000+600000
+ 601905 words of font info for 158 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  92i,7n,95p,1327b,3647s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on thesis.pdf (51 pages, 369599 bytes).
+Output written on thesis.pdf (52 pages, 375339 bytes).
 PDF statistics:
- 671 PDF objects out of 1000 (max. 8388607)
- 594 compressed objects within 6 object streams
- 140 named destinations out of 1000 (max. 500000)
- 39778 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 722 PDF objects out of 1000 (max. 8388607)
+ 643 compressed objects within 7 object streams
+ 157 named destinations out of 1000 (max. 500000)
+ 39786 words of extra memory for PDF output out of 42996 (max. 10000000)
 
