@@ -9,14 +9,16 @@ Status legend: [ ] not started, [~] in progress, [x] done
 - [x] kap01.tex
 - [x] kap02.tex
 - [x] kap03.tex
-- [ ] zaver.tex
+- [x] zaver.tex
 - [ ] abstract-cs.tex
 
 ## Task 2 — Style glitches (terminologie, kalky, opakování, formátování, odkazy)
-- [x] uvod.tex
+- [x] uvod.tex (incl. terminology unification pass)
 - [x] kap01.tex
 - [x] kap02.tex
-- [x] kap03.tex (partial terminology unification also touched uvod.tex — see below)
+- [x] kap03.tex
+- [x] zaver.tex
+- terminology unification (nadvláda/dominance) — DONE across uvod/kap01/kap02/kap03/zaver
 - [ ] kap02.tex
 - [ ] kap03.tex
 - [ ] zaver.tex
@@ -30,6 +32,9 @@ Status legend: [ ] not started, [~] in progress, [x] done
 
 ## Notes / decisions log
 (newest on top)
+
+- Iter 5: zaver.tex done (grammar+style) AND finished the cross-chapter nadvláda/dominance terminology unification (uvod.tex's 4 remaining occurrences fixed). Terminology unification is now COMPLETE across all five body chapters — verified via final grep, only the intentionally-untouched cases remain: kap02 "dominantním režimem" (unrelated word, means "the dominant [cognitive] mode"), kap03 heading "Technokracie jako dominance instrumentální racionality" (ordinary-language predominance sense), kap03's "dominium" occurrences (distinct technical term), and the direct quote from Coeckelbergh. zaver.tex-specific fixes: replaced literal „...“ Unicode quote characters around \uv{nemyslely} with the \uv{} macro (matches the convention used everywhere else in the thesis instead of hand-typed guillemets/quotes) and added a missing comma before "nýbrž" in that same sentence. Caught and immediately corrected my own typo ("nadváda" instead of "nadvláda") before committing. Stripped stray leading/trailing whitespace (24 lines). No new abbreviations (AI, GDPR already in zkratky.tex). Build clean (53p).
+- REMAINING WORK: abstract-cs.tex (grammar+style pass, check for "dominance" terminology there too since it's a compressed restatement of the whole argument) and zkratky.tex itself (add BLOOM + IDRIS found in kap03, verify/refine existing 7 entries per best-practice formatting: item -- plný název, en dash, no trailing periods, consistent capitalization, alphabetical-ish order already roughly followed: ČLR, EU, FOMO, GDPR, SyRI, UI, USA — check if BLOOM/IDRIS insertion should go alphabetically e.g. BLOOM before ČLR, IDRIS between GDPR and SyRI). Also should double check abstract-en.tex is in scope — original instructions only listed abstract-cs.tex (Czech-language check), abstract-en.tex is English so out of scope for Czech grammar task, only relevant if it also needs an abbreviation cross-check, low priority. Next: abstract-cs.tex.
 
 - Iter 4b (pending, next up): cross-chapter terminology unification for the central Pettit "domination" concept. Kap01 §1.4 canonizes "nadvláda" with a full definitional section; kap02 follows it. But uvod.tex and zaver.tex use "dominance" for the identical concept instead. Fixed all kap03.tex occurrences already (see iter 4 note). STILL TODO: uvod.tex (4 occurrences: lines ~40,47,51,95) and zaver.tex (4 occurrences: lines ~20,22,23,35) need "dominance"->"nadvláda" (with correct case endings) for the Pettit-concept sense specifically. Do NOT touch: (a) kap03.tex heading "Technokracie jako dominance instrumentální racionality" (line5) — different ordinary-language sense of "dominance" = predominance, not the Pettit concept; (b) kap03.tex "dominium" occurrences (§Technofašismus, 3 places) — a deliberately distinct Latin/legal technical term about unbound ownership/capturability, not a synonym to normalize away; (c) the quoted phrase inside \uv{...novým, antidemokratickým formám vládnutí a dominance} (kap03 line ~176) — that's inside a direct quotation, must not silently edit quoted material.
 - Iter 4: kap03.tex done (grammar+style+structure). Biggest find: 8 "headings" (Technokracie jako dominance instrumentální racionality; Rozostření hranic odpovědnosti; Pojem odpovědnosti a jeho filozofické základy; Strukturální rozostření odpovědnosti v algoritmických systémech; Pseudoagentnost a iluze strojové subjektivity; Ekonomické nástroje: pigouovská daň jako regulatorní strategie; Digitální infrastruktura jako politická volba; Uchopitelnost: nizozemský případ) were plain paragraph-start text, not actual \subsection{} macros — confirmed via thesis.toc that none of them appeared in the ToC/outline at all. Converted all 8 to \subsection{} (flat, matching the rest of the thesis which never uses \subsubsection); verified post-build they now appear correctly numbered in thesis.toc. Also fixed redundant "—, avšak" -> "— avšak" punctuation, wrapped a bare English "domination" in \uv{} for consistent foreign-term formatting, and unified kap03's own dominance/nadvláda occurrences (6 fixes) to match kap01's canonical "nadvláda" term (see iter 4b note above for the parts of this terminology fix still open in uvod/zaver). Stripped stray leading/trailing whitespace (7 lines). New abbreviations found needing addition to zkratky.tex later: BLOOM (otevřený jazykový model), IDRIS (francouzský státní institut) — both from the §AI pro obecné dobro section. AI/GDPR already covered. Build clean (53p, ToC verified). Next: either finish the uvod/zaver terminology unification (iter 4b), or move on to zaver.tex's own grammar/style pass and fold the terminology fix in then — latter is more efficient, doing that.
