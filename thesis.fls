@@ -374,9 +374,6 @@ INPUT zaver.aux
 INPUT ./literatura.aux
 INPUT ./literatura.aux
 INPUT literatura.aux
-INPUT ./zkratky.aux
-INPUT ./zkratky.aux
-INPUT zkratky.aux
 OUTPUT thesis.aux
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -481,6 +478,11 @@ INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/tfm/public/lm/lmbsy7.tfm
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 OUTPUT thesis.toc
+INPUT ./zkratky.tex
+INPUT ./zkratky.tex
+INPUT ./zkratky.tex
+INPUT ./zkratky.tex
+INPUT zkratky.tex
 INPUT ./uvod.tex
 INPUT ./uvod.tex
 OUTPUT uvod.aux
@@ -523,12 +525,6 @@ INPUT literatura.tex
 INPUT /Users/annaradyuk/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
 INPUT /Users/annaradyuk/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
 INPUT /Users/annaradyuk/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm
-INPUT ./zkratky.tex
-INPUT ./zkratky.tex
-OUTPUT zkratky.aux
-INPUT ./zkratky.tex
-INPUT ./zkratky.tex
-INPUT zkratky.tex
 INPUT thesis.aux
 INPUT ./title.aux
 INPUT ./title.aux
@@ -551,9 +547,6 @@ INPUT zaver.aux
 INPUT ./literatura.aux
 INPUT ./literatura.aux
 INPUT literatura.aux
-INPUT ./zkratky.aux
-INPUT ./zkratky.aux
-INPUT zkratky.aux
 INPUT ./thesis.out
 INPUT ./thesis.out
 INPUT thesis.run.xml

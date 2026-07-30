@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  30 JUL 2026 13:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.11.7)  30 JUL 2026 14:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1526,7 +1526,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'czech'.
- (./thesis.aux (./title.aux) (./uvod.aux) (./kap01.aux) (./kap02.aux) (./kap03.aux) (./zaver.aux) (./literatura.aux) (./zkratky.aux))
+ (./thesis.aux (./title.aux) (./uvod.aux) (./kap01.aux) (./kap02.aux) (./kap03.aux) (./zaver.aux) (./literatura.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
@@ -1667,35 +1667,35 @@ Package hyperref Info: Option `pageanchor' set `true' on input line 83.
 [4
 
 ]) (./thesis.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5.
  (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5.
  (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 5.
  (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 5.
  (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 4.
+(Font)              <12> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+(Font)              <6> on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
  (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
  (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -1710,7 +1710,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 \tf@toc=\write8
 \openout8 = `thesis.toc'.
 
-
+ (./zkratky.tex)
 
 [6]
 \openout2 = `uvod.aux'.
@@ -1919,16 +1919,6 @@ Underfull \hbox (badness 1158) in paragraph at lines 15--15
 [51])
 
 [52]
-\openout2 = `zkratky.aux'.
-
- (./zkratky.tex)
-
-[53
-
-
-
-
-]
 
 Package caption Warning: Unused \captionsetup[algorithm] on input line 47.
 See the caption package documentation for explanation.
@@ -1937,7 +1927,7 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[listing] on input line 47.
 See the caption package documentation for explanation.
 
-(./thesis.aux (./title.aux) (./uvod.aux) (./kap01.aux) (./kap02.aux) (./kap03.aux) (./zaver.aux) (./literatura.aux) (./zkratky.aux))
+(./thesis.aux (./title.aux) (./uvod.aux) (./kap01.aux) (./kap02.aux) (./kap03.aux) (./zaver.aux) (./literatura.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1947,24 +1937,24 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: B700958651182B8A2B313B213A5EC321;12125.
+(rerunfilecheck)             Checksum: 2BA7B4CB246CB7E6EC957C95A9B33775;12125.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30707 strings out of 473190
- 528882 string characters out of 5704335
- 1429807 words of memory out of 5000000
- 53133 multiletter control sequences out of 15000+600000
+ 30689 strings out of 473190
+ 528456 string characters out of 5704335
+ 1427040 words of memory out of 5000000
+ 53120 multiletter control sequences out of 15000+600000
  601992 words of font info for 159 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 92i,7n,95p,1327b,3647s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,7n,95p,1327b,3620s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on thesis.pdf (53 pages, 378653 bytes).
+Output written on thesis.pdf (52 pages, 379779 bytes).
 PDF statistics:
- 731 PDF objects out of 1000 (max. 8388607)
- 651 compressed objects within 7 object streams
- 159 named destinations out of 1000 (max. 500000)
+ 727 PDF objects out of 1000 (max. 8388607)
+ 648 compressed objects within 7 object streams
+ 158 named destinations out of 1000 (max. 500000)
  39794 words of extra memory for PDF output out of 42996 (max. 10000000)
 

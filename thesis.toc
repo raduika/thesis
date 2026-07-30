@@ -1,5 +1,6 @@
 \babel@toc {czech}{}\relax 
-\contentsline {chapter}{Úvod}{7}{chapter*.2}%
+\contentsline {chapter}{Seznam zkratek}{6}{section*.2}%
+\contentsline {chapter}{Úvod}{7}{chapter*.3}%
 \contentsline {chapter}{\numberline {1}Od výpočtu k nadvládě: pojmové základy politické analýzy umělé inteligence}{10}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Umělá inteligence jako předmět filozoficko-politické analýzy.}{10}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Středověk: první projekt mechanizace myšlení.}{10}{subsection.1.1.1}%
@@ -40,8 +41,8 @@
 \contentsline {section}{\numberline {3.7}Technofašismus: dominium jako podmínka možnosti}{44}{section.3.7}%
 \contentsline {section}{\numberline {3.8}Kritika Coeckelbergha: chybějící pojem dominance}{45}{section.3.8}%
 \contentsline {section}{\numberline {3.9}Shrnutí}{46}{section.3.9}%
-\contentsline {chapter}{Závěr}{47}{chapter*.3}%
-\contentsline {chapter}{Literatura}{49}{chapter*.4}%
+\contentsline {chapter}{Závěr}{47}{chapter*.4}%
+\contentsline {chapter}{Literatura}{49}{chapter*.5}%
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
@@ -114,4 +115,3 @@
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
-\contentsline {chapter}{Seznam zkratek}{53}{chapter*.5}%
