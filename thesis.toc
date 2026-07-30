@@ -1,46 +1,46 @@
 \babel@toc {czech}{}\relax 
-\contentsline {chapter}{Úvod}{6}{chapter*.2}%
-\contentsline {chapter}{\numberline {1}Od výpočtu k nadvládě: pojmové základy politické analýzy umělé inteligence}{9}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Umělá inteligence jako předmět filozoficko-politické analýzy.}{9}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Středověk: první projekt mechanizace myšlení.}{9}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Od mechanicismu ke kybernetice: tři konceptuální posuny.}{10}{subsection.1.1.2}%
-\contentsline {section}{\numberline {1.2}Transformace pojmu \uv {myšlení}: od lidského k výpočetnímu.}{11}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Od disciplinární moci k algoritmické kontrole.}{12}{subsection.1.2.1}%
-\contentsline {section}{\numberline {1.3}Depolitizace a mýtus algoritmické neutrality}{13}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Algoritmická předpojatost a její politické důsledky}{14}{subsection.1.3.1}%
-\contentsline {section}{\numberline {1.4}Nadvláda jako normativní jádro}{16}{section.1.4}%
-\contentsline {chapter}{\numberline {2}Ekonomika pozornosti a transformace veřejné sféry }{18}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Veřejná racionalita jako filozoficko-politický koncept}{18}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Kantovské kořeny: veřejné užívání rozumu}{18}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Habermasův rozvoj: komunikativní racionalita a veřejná sféra}{18}{subsection.2.1.2}%
-\contentsline {section}{\numberline {2.2}Veřejná racionalita v této práci.}{19}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Vztah k dalším konceptům.}{20}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Pozornost jako vzácný zdroj.}{20}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Komodifikace pozornosti: pozornost jako zboží.}{21}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Architektury zachycování pozornosti (captology)}{22}{subsection.2.5.1}%
-\contentsline {section}{\numberline {2.6}Platformový kapitalismus a komodifikace dat}{23}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}Prvotní akumulace dat}{23}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}Zbožní fetišismus algoritmů}{24}{subsection.2.6.2}%
-\contentsline {section}{\numberline {2.7}Platformový kapitalismus a veřejná racionalita}{25}{section.2.7}%
-\contentsline {section}{\numberline {2.8}Kognitivní důsledky ekonomiky pozornosti}{26}{section.2.8}%
-\contentsline {section}{\numberline {2.9}Fragmentace pozornosti a povrchní myšlení}{28}{section.2.9}%
-\contentsline {subsection}{\numberline {2.9.1}Vliv na schopnost kritické analýzy}{29}{subsection.2.9.1}%
-\contentsline {section}{\numberline {2.10}Oslabení veřejné racionality}{29}{section.2.10}%
-\contentsline {section}{\numberline {2.11}Postpravda jako politický režim}{30}{section.2.11}%
-\contentsline {section}{\numberline {2.12}Manipulace veřejného mínění prostřednictvím umělé inteligence}{32}{section.2.12}%
-\contentsline {section}{\numberline {2.13}Generativní AI jako nástroj masové produkce obsahu}{33}{section.2.13}%
-\contentsline {section}{\numberline {2.14}Politický důsledek: odpovědnost bez subjektu}{34}{section.2.14}%
-\contentsline {chapter}{\numberline {3}Algoritmizace vlády a etické a politické výzvy}{35}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Technokracie a depolitizace řízení}{35}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Stávající regulatorní přístupy: GDPR, AI Act a jejich meze}{38}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Alternativní modely: demokratizace AI}{41}{section.3.3}%
-\contentsline {section}{\numberline {3.4}AI pro obecné dobro a veřejné instituce}{41}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Digitální gramotnost a epistemická emancipace}{42}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Technofašismus: dominium jako podmínka možnosti}{43}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Kritika Coeckelbergha: chybějící pojem dominance}{44}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Shrnutí}{45}{section.3.8}%
-\contentsline {chapter}{Závěr}{46}{chapter*.3}%
-\contentsline {chapter}{Literatura}{48}{chapter*.4}%
+\contentsline {chapter}{Úvod}{7}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Od výpočtu k nadvládě: pojmové základy politické analýzy umělé inteligence}{10}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Umělá inteligence jako předmět filozoficko-politické analýzy.}{10}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Středověk: první projekt mechanizace myšlení.}{10}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Od mechanicismu ke kybernetice: tři konceptuální posuny.}{11}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Transformace pojmu \uv {myšlení}: od lidského k výpočetnímu.}{12}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Od disciplinární moci k algoritmické kontrole.}{13}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3}Depolitizace a mýtus algoritmické neutrality}{14}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Algoritmická předpojatost a její politické důsledky}{15}{subsection.1.3.1}%
+\contentsline {section}{\numberline {1.4}Nadvláda jako normativní jádro}{17}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Ekonomika pozornosti a transformace veřejné sféry }{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Veřejná racionalita jako filozoficko-politický koncept}{19}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Kantovské kořeny: veřejné užívání rozumu}{19}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Habermasův rozvoj: komunikativní racionalita a veřejná sféra}{19}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Veřejná racionalita v této práci.}{20}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Vztah k dalším konceptům.}{21}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Pozornost jako vzácný zdroj.}{21}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Komodifikace pozornosti: pozornost jako zboží.}{22}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Architektury zachycování pozornosti (captology)}{23}{subsection.2.5.1}%
+\contentsline {section}{\numberline {2.6}Platformový kapitalismus a komodifikace dat}{24}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Prvotní akumulace dat}{24}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Zbožní fetišismus algoritmů}{25}{subsection.2.6.2}%
+\contentsline {section}{\numberline {2.7}Platformový kapitalismus a veřejná racionalita}{26}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Kognitivní důsledky ekonomiky pozornosti}{27}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Fragmentace pozornosti a povrchní myšlení}{29}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Vliv na schopnost kritické analýzy}{30}{subsection.2.9.1}%
+\contentsline {section}{\numberline {2.10}Oslabení veřejné racionality}{30}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Postpravda jako politický režim}{31}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Manipulace veřejného mínění prostřednictvím umělé inteligence}{33}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Generativní AI jako nástroj masové produkce obsahu}{34}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Politický důsledek: odpovědnost bez subjektu}{35}{section.2.14}%
+\contentsline {chapter}{\numberline {3}Algoritmizace vlády a etické a politické výzvy}{36}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Technokracie a depolitizace řízení}{36}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Stávající regulatorní přístupy: GDPR, AI Act a jejich meze}{39}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Alternativní modely: demokratizace AI}{42}{section.3.3}%
+\contentsline {section}{\numberline {3.4}AI pro obecné dobro a veřejné instituce}{42}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Digitální gramotnost a epistemická emancipace}{43}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Technofašismus: dominium jako podmínka možnosti}{44}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Kritika Coeckelbergha: chybějící pojem dominance}{45}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Shrnutí}{46}{section.3.8}%
+\contentsline {chapter}{Závěr}{47}{chapter*.3}%
+\contentsline {chapter}{Literatura}{49}{chapter*.4}%
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
@@ -113,4 +113,4 @@
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
 \babel@toc {czech}{}\relax 
-\contentsline {chapter}{Seznam zkratek}{52}{chapter*.5}%
+\contentsline {chapter}{Seznam zkratek}{53}{chapter*.5}%

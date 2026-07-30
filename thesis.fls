@@ -1,7 +1,7 @@
 PWD /Users/annaradyuk/Desktop/thesis
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-dist/web2c/texmf.cnf
 INPUT /opt/homebrew/Cellar/texlive/20250308_2/share/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/annaradyuk/Desktop/thesis/thesis.tex
+INPUT thesis.tex
 OUTPUT thesis.log
 INPUT metadata.tex
 INPUT xmp.tex
