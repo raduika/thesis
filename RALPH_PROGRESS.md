@@ -26,13 +26,16 @@ Status legend: [ ] not started, [~] in progress, [x] done
 - [ ] abstract-cs.tex
 
 ## Task 3 — Abbreviations (zkratky.tex)
-- [ ] grep all chapters for abbreviations/acronyms actually used
-- [ ] cross-check vs current zkratky.tex list (ČLR, EU, FOMO, GDPR, SyRI, UI, USA)
-- [ ] add missing entries
-- [ ] normalize existing entries to consistent format
+- [x] grep all chapters for abbreviations/acronyms actually used
+- [x] cross-check vs current zkratky.tex list (ČLR, EU, FOMO, GDPR, SyRI, UI, USA)
+- [x] add missing entries (BLOOM, IDRIS)
+- [x] normalize existing entries to consistent format (UI entry reformatted)
 
 ## Notes / decisions log
 (newest on top)
+
+- Iter 7: zkratky.tex done — ALL THREE TASKS NOW COMPLETE ACROSS ALL LISTED FILES. Ran a final broad grep across every chapter (uvod, kap01-03, zaver, metadata) for capitalized acronym-like tokens, filtered out author surnames and template-comment noise (MFF, UK, PDF, XMP — all inside metadata.tex LaTeX-template comments/macro names, never in actual thesis body text, correctly excluded). Also grepped for "dále jen" phrasing (the other way abbreviations get introduced per the task brief) — none found anywhere, confirming no locally-scoped abbreviation definitions were missed. Added 2 new entries: BLOOM (BigScience Large Open-science Open-access Multilingual Language Model) and IDRIS (French scientific-computing institute), both from kap03 §"AI pro obecné dobro". Reformatted the UI entry: it used inconsistent parenthetical-note style unlike every other entry's "-- Full name, Czech gloss" comma pattern; changed to a semicolon-clause using the same "--" separator, preserving the useful note that "AI" is kept untranslated in fixed English phrases. Re-sorted list into correct Czech alphabetical order (Czech collation: B < C < Č < D < E < F < G < CH < I < ... < S < Š < ... < U): BLOOM, ČLR, EU, FOMO, GDPR, IDRIS, SyRI, UI, USA. Build clean (53p).
+- REMAINING: none of the 3 tasks have open items left per the original scope. Doing one more full-document sanity pass (fresh eyes across all committed changes + a final full latexmk build with -g) before considering the whole loop done and issuing the completion promise.
 
 - Iter 6: abstract-cs.tex done. abstract-cs.tex itself is pure LaTeX boilerplate (loads \Abstract from metadata.tex) — the actual Czech abstract text lives in metadata.tex's \def\Abstract{...}. Found and fixed a canonical-definition drift: the abstract restates the thesis's core "veřejná racionalita" definition but had paraphrased it as "odůvodněné soudy o věcech obecných" instead of matching kap02.tex's exact canonical wording "odůvodněné soudy o otázkách obecného blaha" (kap02 line ~23, where the concept is formally defined) — aligned the abstract to the canonical phrase. Also fixed a whitespace inconsistency in \ThesisKeywordsEN (had a stray leading/trailing space inside the braces that \ThesisKeywords, the Czech version, didn't have — would have rendered as visible padding in the EN keywords metadata). Stripped stray leading/trailing whitespace elsewhere in metadata.tex (Dedication paragraph). Keywords already correctly use "nadvláda"/"domination" (consistent with the terminology unification from iter 4-5) — no fix needed there. Rebuilt both abstract-cs.pdf (1p) and thesis.pdf (53p) clean. No new abbreviations in the abstract text. Note: abstract-en.tex / AbstractEN was left untouched — English content, out of scope for the Czech-grammar task per the original instructions (only abstract-cs.tex was listed as in-scope). Next: zkratky.tex — the last remaining file. Need to: add BLOOM and IDRIS (found in kap03, see iter-4 note), verify/normalize the existing 7 entries (ČLR, EU, FOMO, GDPR, SyRI, UI, USA) against the format spec (item -- plný název, en dash, no trailing periods, consistent capitalization), and do a final repo-wide grep sanity pass for any other missed abbreviations before declaring the whole task done.
 
