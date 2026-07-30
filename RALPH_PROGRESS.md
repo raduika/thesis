@@ -8,7 +8,7 @@ Status legend: [ ] not started, [~] in progress, [x] done
 - [x] uvod.tex
 - [x] kap01.tex
 - [x] kap02.tex
-- [ ] kap03.tex
+- [x] kap03.tex
 - [ ] zaver.tex
 - [ ] abstract-cs.tex
 
@@ -16,6 +16,7 @@ Status legend: [ ] not started, [~] in progress, [x] done
 - [x] uvod.tex
 - [x] kap01.tex
 - [x] kap02.tex
+- [x] kap03.tex (partial terminology unification also touched uvod.tex — see below)
 - [ ] kap02.tex
 - [ ] kap03.tex
 - [ ] zaver.tex
@@ -29,6 +30,9 @@ Status legend: [ ] not started, [~] in progress, [x] done
 
 ## Notes / decisions log
 (newest on top)
+
+- Iter 4b (pending, next up): cross-chapter terminology unification for the central Pettit "domination" concept. Kap01 §1.4 canonizes "nadvláda" with a full definitional section; kap02 follows it. But uvod.tex and zaver.tex use "dominance" for the identical concept instead. Fixed all kap03.tex occurrences already (see iter 4 note). STILL TODO: uvod.tex (4 occurrences: lines ~40,47,51,95) and zaver.tex (4 occurrences: lines ~20,22,23,35) need "dominance"->"nadvláda" (with correct case endings) for the Pettit-concept sense specifically. Do NOT touch: (a) kap03.tex heading "Technokracie jako dominance instrumentální racionality" (line5) — different ordinary-language sense of "dominance" = predominance, not the Pettit concept; (b) kap03.tex "dominium" occurrences (§Technofašismus, 3 places) — a deliberately distinct Latin/legal technical term about unbound ownership/capturability, not a synonym to normalize away; (c) the quoted phrase inside \uv{...novým, antidemokratickým formám vládnutí a dominance} (kap03 line ~176) — that's inside a direct quotation, must not silently edit quoted material.
+- Iter 4: kap03.tex done (grammar+style+structure). Biggest find: 8 "headings" (Technokracie jako dominance instrumentální racionality; Rozostření hranic odpovědnosti; Pojem odpovědnosti a jeho filozofické základy; Strukturální rozostření odpovědnosti v algoritmických systémech; Pseudoagentnost a iluze strojové subjektivity; Ekonomické nástroje: pigouovská daň jako regulatorní strategie; Digitální infrastruktura jako politická volba; Uchopitelnost: nizozemský případ) were plain paragraph-start text, not actual \subsection{} macros — confirmed via thesis.toc that none of them appeared in the ToC/outline at all. Converted all 8 to \subsection{} (flat, matching the rest of the thesis which never uses \subsubsection); verified post-build they now appear correctly numbered in thesis.toc. Also fixed redundant "—, avšak" -> "— avšak" punctuation, wrapped a bare English "domination" in \uv{} for consistent foreign-term formatting, and unified kap03's own dominance/nadvláda occurrences (6 fixes) to match kap01's canonical "nadvláda" term (see iter 4b note above for the parts of this terminology fix still open in uvod/zaver). Stripped stray leading/trailing whitespace (7 lines). New abbreviations found needing addition to zkratky.tex later: BLOOM (otevřený jazykový model), IDRIS (francouzský státní institut) — both from the §AI pro obecné dobro section. AI/GDPR already covered. Build clean (53p, ToC verified). Next: either finish the uvod/zaver terminology unification (iter 4b), or move on to zaver.tex's own grammar/style pass and fold the terminology fix in then — latter is more efficient, doing that.
 
 - Iter 3: kap02.tex done (grammar+style). Real bugs found and fixed: (1) word literally split across a line break — "V\neřejná sféra" -> "Veřejná sféra" (was silently corrupting a sentence); (2) case-agreement error "není pouhou kvantitativní nárůstem" -> "není pouhým kvantitativním nárůstem" (instrumental agreement with nárůstem); (3) typo "Nesvodí se" -> "Nesvádí se" (svádět, not a non-existent "svodit" conjugation); (4) missing preposition euphony "z zachvacování" -> "ze zachvacování"; (5) missing em dash in an appositive list ("osobnosti  politické názory..." -> "osobnosti — politické názory..."); (6) untranslated bare English "lived effect" -> "prožívaný účinek (lived effect)" to match the doc's convention of Czech-gloss-plus-English-original; (7) redundant near-duplicate sentence about generative systems producing statistically-probable symbol sequences (said twice in adjacent lines) merged into one; (8) double colon "důsledek: agentství občanů: jejich schopnost" -> em-dash appositive to match the pattern used elsewhere in the same doc for defining "epistemické agentství"; (9) 4 heading trailing periods removed + chapter-title trailing space removed; (10) stray leading whitespace (30 lines) and trailing whitespace (all lines) stripped. No new abbreviations (AI, UI, FOMO, USA all already in zkratky.tex). Build clean (53p). Next: kap03.tex.
 
