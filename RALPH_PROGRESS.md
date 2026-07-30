@@ -10,7 +10,7 @@ Status legend: [ ] not started, [~] in progress, [x] done
 - [x] kap02.tex
 - [x] kap03.tex
 - [x] zaver.tex
-- [ ] abstract-cs.tex
+- [x] abstract-cs.tex (actual text lives in metadata.tex \Abstract macro)
 
 ## Task 2 — Style glitches (terminologie, kalky, opakování, formátování, odkazy)
 - [x] uvod.tex (incl. terminology unification pass)
@@ -18,6 +18,7 @@ Status legend: [ ] not started, [~] in progress, [x] done
 - [x] kap02.tex
 - [x] kap03.tex
 - [x] zaver.tex
+- [x] abstract-cs.tex / metadata.tex
 - terminology unification (nadvláda/dominance) — DONE across uvod/kap01/kap02/kap03/zaver
 - [ ] kap02.tex
 - [ ] kap03.tex
@@ -32,6 +33,8 @@ Status legend: [ ] not started, [~] in progress, [x] done
 
 ## Notes / decisions log
 (newest on top)
+
+- Iter 6: abstract-cs.tex done. abstract-cs.tex itself is pure LaTeX boilerplate (loads \Abstract from metadata.tex) — the actual Czech abstract text lives in metadata.tex's \def\Abstract{...}. Found and fixed a canonical-definition drift: the abstract restates the thesis's core "veřejná racionalita" definition but had paraphrased it as "odůvodněné soudy o věcech obecných" instead of matching kap02.tex's exact canonical wording "odůvodněné soudy o otázkách obecného blaha" (kap02 line ~23, where the concept is formally defined) — aligned the abstract to the canonical phrase. Also fixed a whitespace inconsistency in \ThesisKeywordsEN (had a stray leading/trailing space inside the braces that \ThesisKeywords, the Czech version, didn't have — would have rendered as visible padding in the EN keywords metadata). Stripped stray leading/trailing whitespace elsewhere in metadata.tex (Dedication paragraph). Keywords already correctly use "nadvláda"/"domination" (consistent with the terminology unification from iter 4-5) — no fix needed there. Rebuilt both abstract-cs.pdf (1p) and thesis.pdf (53p) clean. No new abbreviations in the abstract text. Note: abstract-en.tex / AbstractEN was left untouched — English content, out of scope for the Czech-grammar task per the original instructions (only abstract-cs.tex was listed as in-scope). Next: zkratky.tex — the last remaining file. Need to: add BLOOM and IDRIS (found in kap03, see iter-4 note), verify/normalize the existing 7 entries (ČLR, EU, FOMO, GDPR, SyRI, UI, USA) against the format spec (item -- plný název, en dash, no trailing periods, consistent capitalization), and do a final repo-wide grep sanity pass for any other missed abbreviations before declaring the whole task done.
 
 - Iter 5: zaver.tex done (grammar+style) AND finished the cross-chapter nadvláda/dominance terminology unification (uvod.tex's 4 remaining occurrences fixed). Terminology unification is now COMPLETE across all five body chapters — verified via final grep, only the intentionally-untouched cases remain: kap02 "dominantním režimem" (unrelated word, means "the dominant [cognitive] mode"), kap03 heading "Technokracie jako dominance instrumentální racionality" (ordinary-language predominance sense), kap03's "dominium" occurrences (distinct technical term), and the direct quote from Coeckelbergh. zaver.tex-specific fixes: replaced literal „...“ Unicode quote characters around \uv{nemyslely} with the \uv{} macro (matches the convention used everywhere else in the thesis instead of hand-typed guillemets/quotes) and added a missing comma before "nýbrž" in that same sentence. Caught and immediately corrected my own typo ("nadváda" instead of "nadvláda") before committing. Stripped stray leading/trailing whitespace (24 lines). No new abbreviations (AI, GDPR already in zkratky.tex). Build clean (53p).
 - REMAINING WORK: abstract-cs.tex (grammar+style pass, check for "dominance" terminology there too since it's a compressed restatement of the whole argument) and zkratky.tex itself (add BLOOM + IDRIS found in kap03, verify/refine existing 7 entries per best-practice formatting: item -- plný název, en dash, no trailing periods, consistent capitalization, alphabetical-ish order already roughly followed: ČLR, EU, FOMO, GDPR, SyRI, UI, USA — check if BLOOM/IDRIS insertion should go alphabetically e.g. BLOOM before ČLR, IDRIS between GDPR and SyRI). Also should double check abstract-en.tex is in scope — original instructions only listed abstract-cs.tex (Czech-language check), abstract-en.tex is English so out of scope for Czech grammar task, only relevant if it also needs an abbreviation cross-check, low priority. Next: abstract-cs.tex.
